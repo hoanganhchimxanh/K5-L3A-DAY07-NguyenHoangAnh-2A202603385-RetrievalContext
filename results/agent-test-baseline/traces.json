@@ -1,0 +1,649 @@
+[
+  {
+    "query_id": "q16",
+    "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?",
+    "status": "answered",
+    "answer": "The fundamental governance agreement drafted and signed by the English Pilgrims aboard ship in 1620 is known as the Mayflower Compact, which has been called the first American governing document [openstax-us-history_p088_para_001].",
+    "citations": [
+      "openstax-us-history_p088_para_001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Pilgrims governance agreement 1620 Mayflower Compact",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-us-history_p088_para_001",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 88,
+            "text": "The Mayflower Compact and Its Religious Rationale\nThe Mayflower Compact, which forty-one Pilgrim men signed on board the Mayflower in Plymouth Harbor, has\nbeen called the first American governing document, predating the U.S. Constitution by over 150 years. But was\nthe Mayflower Compact a constitution? How much authority did it convey, and to whom? FIGURE 3.11 The original Mayflower Compact is no longer extant; only copies, such as this ca.1645 transcription\nby William Bradford, remain. In the name of God, Amen. We, whose names are underwritten, the loyal subjects of our dread\nSovereign Lord King James, by the Grace of God, of Great Britain, France, and Ireland, King, defender of\nthe Faith, etc.",
+            "metadata": {
+              "book_page": 72,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 2346,
+              "clean_char_count": 2317,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 1,
+              "char_count": 703
+            },
+            "score": 0.7344936110870018,
+            "rank": 1
+          },
+          {
+            "id": "openstax-us-history_p088_para_000",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 88,
+            "text": "Separatists represented a major challenge to the prevailing vision of a unified English national church and\nempire. On board the Mayflower, which was bound for Virginia but landed on the tip of Cape Cod, Bradford and\nforty other adult men signed the Mayflower Compact (Figure 3.11), which presented a religious (rather than an\neconomic) rationale for colonization. The compact expressed a community ideal of working together. When a\nlarger exodus of Puritans established the Massachusetts Bay Colony in the 1630s, the Pilgrims at Plymouth\nwelcomed them and the two colonies cooperated with each other.",
+            "metadata": {
+              "book_page": 72,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 2346,
+              "clean_char_count": 2317,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 0,
+              "char_count": 601
+            },
+            "score": 0.6847465114414371,
+            "rank": 2
+          },
+          {
+            "id": "openstax-us-history_p061_para_002",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 61,
+            "text": "Fearing their children were losing\ntheir English identity among the Dutch, however, they sailed for North America in 1620 to settle at Plymouth,\nthe first English settlement in New England. The Pilgrims differed from other Puritans in their insistence on\nseparating from what they saw as the corrupt Church of England. For this reason, Pilgrims are known as\nSeparatists. Like Jamestown, Plymouth occupies an iconic place in American national memory. The tale of the 102\nmigrants who crossed the Atlantic aboard the Mayflower and their struggle for survival is a well-known\nnarrative of the founding of the country. Their story includes the signing of the Mayflower Compact, a written\nagreement whereby the English voluntarily agreed to help each other.",
+            "metadata": {
+              "book_page": 45,
+              "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+              "section": "2.3 Challenges to Spain’s Supremacy",
+              "is_review_question_page": false,
+              "raw_char_count": 4544,
+              "clean_char_count": 4494,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 2,
+              "char_count": 752
+            },
+            "score": 0.6012821846047294,
+            "rank": 3
+          }
+        ],
+        "context": "[openstax-us-history_p088_para_001 | data/US_History_-_WEB.pdf | page 88]\nThe Mayflower Compact and Its Religious Rationale\nThe Mayflower Compact, which forty-one Pilgrim men signed on board the Mayflower in Plymouth Harbor, has\nbeen called the first American governing document, predating the U.S. Constitution by over 150 years. But was\nthe Mayflower Compact a constitution? How much authority did it convey, and to whom? FIGURE 3.11 The original Mayflower Compact is no longer extant; only copies, such as this ca.1645 transcription\nby William Bradford, remain. In the name of God, Amen. We, whose names are underwritten, the loyal subjects of our dread\nSovereign Lord King James, by the Grace of God, of Great Britain, France, and Ireland, King, defender of\nthe Faith, etc.",
+        "context_ids": [
+          "openstax-us-history_p088_para_001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4661.52,
+    "llm_calls": 2,
+    "prompt_tokens": 1084,
+    "completion_tokens": 173,
+    "cost_usd": 0.000267
+  },
+  {
+    "query_id": "q17",
+    "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "expelled religious figures Massachusetts Bay colony 1630s Puritan orthodoxy",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "results": [
+          {
+            "id": "openstax-us-history_p090_para_001",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 90,
+            "text": "When dissenters, including Puritan minister Roger Williams and\nAnne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished. Roger Williams questioned the Puritans’ taking of Native land. Williams also argued for a complete separation\nfrom the Church of England, a position other Puritans in Massachusetts rejected, as well as the idea that the\nstate could not punish individuals for their beliefs. Although he did accept that nonbelievers were destined for\neternal damnation, Williams did not think the state could compel true orthodoxy. Puritan authorities found\nhim guilty of spreading dangerous ideas, but he went on to found Rhode Island as a colony that sheltered\ndissenting Puritans from their brethren in Massachusetts.",
+            "metadata": {
+              "book_page": 74,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 4553,
+              "clean_char_count": 4504,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 1,
+              "char_count": 766
+            },
+            "score": 0.651635928084261,
+            "rank": 1
+          },
+          {
+            "id": "openstax-us-history_p087_para_001",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 87,
+            "text": "These reformers, who followed the teachings of John Calvin and other Protestant\nreformers, were called Puritans because of their insistence on “purifying” the Church of England of what they\nbelieved to be un-scriptural, especially Catholic elements that lingered in its institutions and practices. Many who provided leadership in early New England were learned ministers who had studied at Cambridge or\nOxford but who, because they had questioned the practices of the Church of England, had been deprived of\ncareers by the king and his officials in an effort to silence all dissenting voices. Other Puritan leaders, such as\nthe first governor of the Massachusetts Bay Colony, John Winthrop, came from the privileged class of English\ngentry.",
+            "metadata": {
+              "book_page": 71,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 4389,
+              "clean_char_count": 4342,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 1,
+              "char_count": 740
+            },
+            "score": 0.5933958013617847,
+            "rank": 2
+          },
+          {
+            "id": "openstax-us-history_p087_para_005",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 87,
+            "text": "Although they found they could worship\nwithout hindrance there, they grew concerned that they were losing their Englishness as they saw their\nchildren begin to learn the Dutch language and adopt Dutch ways. In addition, the English Pilgrims (and others\nin Europe) feared another attack on the Dutch Republic by Spain. Therefore, in 1620, they moved on to found\nthe Plymouth Colony in present-day Massachusetts. The governor of Plymouth, William Bradford, was a\nSeparatist, a proponent of complete separation from the English state church. Bradford and the other Pilgrim\n3.3 • English Settlements in America 71",
+            "metadata": {
+              "book_page": 71,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 4389,
+              "clean_char_count": 4342,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 5,
+              "char_count": 609
+            },
+            "score": 0.5603068275705938,
+            "rank": 3
+          }
+        ],
+        "context": "[openstax-us-history_p087_para_005 | data/US_History_-_WEB.pdf | page 87]\nAlthough they found they could worship\nwithout hindrance there, they grew concerned that they were losing their Englishness as they saw their\nchildren begin to learn the Dutch language and adopt Dutch ways. In addition, the English Pilgrims (and others\nin Europe) feared another attack on the Dutch Republic by Spain. Therefore, in 1620, they moved on to found\nthe Plymouth Colony in present-day Massachusetts. The governor of Plymouth, William Bradford, was a\nSeparatist, a proponent of complete separation from the English state church. Bradford and the other Pilgrim\n3.3 • English Settlements in America 71",
+        "context_ids": [
+          "openstax-us-history_p087_para_005"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 3276.94,
+    "llm_calls": 2,
+    "prompt_tokens": 1067,
+    "completion_tokens": 113,
+    "cost_usd": 0.000228
+  },
+  {
+    "query_id": "q18",
+    "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?",
+    "status": "answered",
+    "answer": "Wampanoag leader Metacom launched King Philip's War primarily to stop the encroachment of Puritan settlers into Native lands, as he was determined to drive the English from the territory [openstax-us-history_p091_para_002].",
+    "citations": [
+      "openstax-us-history_p091_para_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Metacom King Philip's War grievances Wampanoag New England 1675",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "results": [
+          {
+            "id": "openstax-us-history_p091_para_002",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 91,
+            "text": "By the mid-seventeenth century, the Puritans had pushed their way further into the interior of New England,\nestablishing outposts along the Connecticut River Valley. There seemed no end to their expansion. Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to\nstop the encroachment. The Wampanoag, along with the Nipmuck, Pocumtuck, and Narragansett, took up\narms to drive the English from the land. In the ensuing conflict, called King Philip’s War, Native forces\nsucceeded in destroying half of the frontier Puritan towns; however, in the end, the English (aided by\nMohegans and Christian Native Americans) prevailed and sold many captives into slavery in the West Indies.",
+            "metadata": {
+              "book_page": 75,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 3057,
+              "clean_char_count": 3021,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 2,
+              "char_count": 722
+            },
+            "score": 0.7258724184132417,
+            "rank": 1
+          },
+          {
+            "id": "openstax-us-history_p091_para_000",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 91,
+            "text": "reading scripture, he translated the Bible into the local Algonquian language and published his work in 1663. Eliot hoped that as a result of his efforts, some of New England’s native inhabitants would become preachers. Tensions had existed from the beginning between the Puritans and the native people who controlled southern\nNew England (Figure 3.13). Relationships deteriorated as the Puritans continued to expand their settlements\naggressively and as European ways increasingly disrupted native life. These strains led to King Philip’s War\n(1675–1676), a massive regional conflict that was nearly successful in pushing the English out of New England. FIGURE 3.13 This map indicates the domains of New England’s native inhabitants in 1670, a few years before King\nPhilip’s War.",
+            "metadata": {
+              "book_page": 75,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 3057,
+              "clean_char_count": 3021,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 0,
+              "char_count": 780
+            },
+            "score": 0.6080913449187936,
+            "rank": 2
+          },
+          {
+            "id": "openstax-us-history_p091_para_001",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 91,
+            "text": "When the Puritans began to arrive in the 1620s and 1630s, local Algonquian peoples had viewed them as\npotential allies in the conflicts already simmering between rival Native groups. In 1621, the Wampanoag, led\nby Massasoit, concluded a peace treaty with the Pilgrims at Plymouth. In the 1630s, the Puritans in\nMassachusetts and Plymouth allied themselves with the Narragansett and Mohegan people against the Pequot,\nwho had recently expanded their claims into southern New England. In May 1637, the Puritans attacked a\nlarge group of several hundred Pequot along the Mystic River in Connecticut. To the horror of their Native\nallies, the Puritans massacred all but a handful of the men, women, and children they found.",
+            "metadata": {
+              "book_page": 75,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 3057,
+              "clean_char_count": 3021,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 1,
+              "char_count": 719
+            },
+            "score": 0.5638132754461994,
+            "rank": 3
+          }
+        ],
+        "context": "[openstax-us-history_p091_para_002 | data/US_History_-_WEB.pdf | page 91]\nBy the mid-seventeenth century, the Puritans had pushed their way further into the interior of New England,\nestablishing outposts along the Connecticut River Valley. There seemed no end to their expansion. Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to\nstop the encroachment. The Wampanoag, along with the Nipmuck, Pocumtuck, and Narragansett, took up\narms to drive the English from the land. In the ensuing conflict, called King Philip’s War, Native forces\nsucceeded in destroying half of the frontier Puritan towns; however, in the end, the English (aided by\nMohegans and Christian Native Americans) prevailed and sold many captives into slavery in the West Indies.",
+        "context_ids": [
+          "openstax-us-history_p091_para_002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3583.14,
+    "llm_calls": 2,
+    "prompt_tokens": 1104,
+    "completion_tokens": 186,
+    "cost_usd": 0.000278
+  },
+  {
+    "query_id": "q19",
+    "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "epidemic disease indigenous peoples Huron Iroquois Great Lakes",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-us-history_p095_para_002",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 95,
+            "text": "Native\npeoples who moved seasonally to take advantage of natural resources now found areas off limits, claimed by\ncolonizers because of their insistence on private-property rights. The Introduction of Disease\nPerhaps European colonization’s single greatest impact on the North American environment was the\nintroduction of disease. Microbes to which native inhabitants had no immunity led to death everywhere\nEuropeans settled. Along the New England coast between 1616 and 1618, epidemics claimed the lives of 75\npercent of the native people. In the 1630s, half the Huron and Iroquois around the Great Lakes died of\nsmallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had\nthe highest mortality rates.",
+            "metadata": {
+              "book_page": 79,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.4 The Impact of Colonization",
+              "is_review_question_page": false,
+              "raw_char_count": 3206,
+              "clean_char_count": 3168,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 2,
+              "char_count": 753
+            },
+            "score": 0.5744396182012014,
+            "rank": 1
+          },
+          {
+            "id": "openstax-us-history_p032_para_001",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 32,
+            "text": "The Indigenous groups who lived in the present-day Ohio River Valley and achieved their cultural apex from\nthe first century CE to 400 CE are collectively known as the Hopewell culture. Their settlements, unlike those of\nthe southwest, were small hamlets. They lived in wattle-and-daub houses (made from woven lattice branches\n“daubed” with wet mud, clay, or sand and straw) and practiced agriculture, which they supplemented by\nhunting and fishing. Utilizing waterways, they developed trade routes stretching from Canada to Louisiana,\nwhere they exchanged goods with other tribes and negotiated in many different languages. From the coast they\nreceived shells; from Canada, copper; and from the Rocky Mountains, obsidian.",
+            "metadata": {
+              "book_page": 16,
+              "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+              "section": "1.1 The Americas",
+              "is_review_question_page": false,
+              "raw_char_count": 3529,
+              "clean_char_count": 3491,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 1,
+              "char_count": 722
+            },
+            "score": 0.49743590705353674,
+            "rank": 2
+          },
+          {
+            "id": "openstax-us-history_p068_para_003",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 68,
+            "text": "In eastern North America, some native peoples interpreted death from disease as a hostile act. Some groups,\nincluding the Iroquois, engaged in raids or “mourning wars,” taking enemy prisoners in order to assuage their\ngrief and replace the departed. In a special ritual, the prisoners were “requickened”—assigned the identity of a\ndead person—and adopted by the bereaved family to take the place of their dead. As the toll from disease rose,\nmourning wars intensified and expanded. 52 2 • Early Globalization: The Atlantic World, 1492–1650\nAccess for free at openstax.org",
+            "metadata": {
+              "book_page": 52,
+              "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+              "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+              "is_review_question_page": false,
+              "raw_char_count": 2834,
+              "clean_char_count": 2802,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 3,
+              "char_count": 571
+            },
+            "score": 0.4694442092025943,
+            "rank": 3
+          }
+        ],
+        "context": "[openstax-us-history_p032_para_001 | data/US_History_-_WEB.pdf | page 32]\nThe Indigenous groups who lived in the present-day Ohio River Valley and achieved their cultural apex from\nthe first century CE to 400 CE are collectively known as the Hopewell culture. Their settlements, unlike those of\nthe southwest, were small hamlets. They lived in wattle-and-daub houses (made from woven lattice branches\n“daubed” with wet mud, clay, or sand and straw) and practiced agriculture, which they supplemented by\nhunting and fishing. Utilizing waterways, they developed trade routes stretching from Canada to Louisiana,\nwhere they exchanged goods with other tribes and negotiated in many different languages. From the coast they\nreceived shells; from Canada, copper; and from the Rocky Mountains, obsidian.",
+        "context_ids": [
+          "openstax-us-history_p032_para_001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 2942.02,
+    "llm_calls": 2,
+    "prompt_tokens": 1076,
+    "completion_tokens": 102,
+    "cost_usd": 0.000223
+  },
+  {
+    "query_id": "q20",
+    "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1680 Pueblo Revolt military outcomes New Mexico",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "results": [
+          {
+            "id": "openstax-us-history_p076_para_002",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 76,
+            "text": "This\ndeep insult, combined with an extended period of drought and increased attacks by local Apache and Navajo\nin the 1670s—troubles that the Pueblo came to believe were linked to the Spanish presence—moved the Pueblo\nto push the Spanish and their religion from the area. Pueblo leader Popé demanded a return to native ways so\nthe hardships his people faced would end. To him and to thousands of others, it seemed obvious that “when\nJesus came, the Corn Mothers went away.” The expulsion of the Spanish would bring a return to prosperity and\na pure, native way of life. In 1680, the Pueblo launched a coordinated rebellion against the Spanish. The Pueblo Revolt killed over four\nhundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico.",
+            "metadata": {
+              "book_page": 60,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.1 Spanish Exploration and Colonial Society",
+              "is_review_question_page": false,
+              "raw_char_count": 4252,
+              "clean_char_count": 4204,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 2,
+              "char_count": 786
+            },
+            "score": 0.5885139663894506,
+            "rank": 1
+          },
+          {
+            "id": "openstax-us-history_p076_para_001",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 76,
+            "text": "Santa Fe became the capital of the Kingdom of New Mexico,\nan outpost of the larger Spanish Viceroyalty of New Spain, which had its headquarters in Mexico City. As they had in other Spanish colonies, Franciscan missionaries labored to bring about a spiritual conquest by\nconverting the Pueblo to Catholicism. At first, the Pueblo adopted the parts of Catholicism that dovetailed with\ntheir own long-standing view of the world. However, Spanish priests insisted that natives discard their old\nways entirely and angered the Pueblo by focusing on the young, drawing them away from their parents.",
+            "metadata": {
+              "book_page": 60,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.1 Spanish Exploration and Colonial Society",
+              "is_review_question_page": false,
+              "raw_char_count": 4252,
+              "clean_char_count": 4204,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 1,
+              "char_count": 591
+            },
+            "score": 0.5353510432927143,
+            "rank": 2
+          },
+          {
+            "id": "openstax-us-history_p076_para_003",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 76,
+            "text": "However, as droughts and attacks by rival tribes continued, the Spanish sensed an opportunity to regain their\nfoothold. In 1692, they returned and reasserted their control of the area. Some of the Spanish explained the\nPueblo success in 1680 as the work of the Devil. Satan, they believed, had stirred up the Pueblo to take arms\nagainst God’s chosen people—the Spanish—but the Spanish, and their God, had prevailed in the end.",
+            "metadata": {
+              "book_page": 60,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.1 Spanish Exploration and Colonial Society",
+              "is_review_question_page": false,
+              "raw_char_count": 4252,
+              "clean_char_count": 4204,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 3,
+              "char_count": 426
+            },
+            "score": 0.5338862031687756,
+            "rank": 3
+          }
+        ],
+        "context": "[openstax-us-history_p076_para_001 | data/US_History_-_WEB.pdf | page 76]\nSanta Fe became the capital of the Kingdom of New Mexico,\nan outpost of the larger Spanish Viceroyalty of New Spain, which had its headquarters in Mexico City. As they had in other Spanish colonies, Franciscan missionaries labored to bring about a spiritual conquest by\nconverting the Pueblo to Catholicism. At first, the Pueblo adopted the parts of Catholicism that dovetailed with\ntheir own long-standing view of the world. However, Spanish priests insisted that natives discard their old\nways entirely and angered the Pueblo by focusing on the young, drawing them away from their parents.",
+        "context_ids": [
+          "openstax-us-history_p076_para_001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 3505.03,
+    "llm_calls": 2,
+    "prompt_tokens": 1041,
+    "completion_tokens": 111,
+    "cost_usd": 0.000223
+  },
+  {
+    "query_id": "q23",
+    "question": "Who served as the primary author of the Federalist Papers alongside Alexander Hamilton and John Jay during the ratification debates?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Federalist Papers primary authors Alexander Hamilton John Jay",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-us-history_p088_para_003",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 88,
+            "text": "In witness whereof we have hereunto subscribed our names at Cape Cod the 11th of November, in the\nyear of the reign of our Sovereign Lord King James, of England, France, and Ireland, the eighteenth, and\nAMERICANA\n72 3 • Creating New Social Orders: Colonial Societies, 1500–1700\nAccess for free at openstax.org",
+            "metadata": {
+              "book_page": 72,
+              "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+              "section": "3.3 English Settlements in America",
+              "is_review_question_page": false,
+              "raw_char_count": 2346,
+              "clean_char_count": 2317,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 3,
+              "char_count": 309
+            },
+            "score": 0.29809397053120185,
+            "rank": 1
+          },
+          {
+            "id": "openstax-us-history_p051_para_000",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 51,
+            "text": "in the New World to the Spanish crown, designed to win royal patronage. Today they highlight the difficult task\nof historical work; while the letters are primary sources, historians need to understand the context and the\nculture in which the conquistadors, as the Spanish adventurers came to be called, wrote them and distinguish\ntheir bias and subjective nature. While they are filled with distortions and fabrications, probanzas de méritos\nare still useful in illustrating the expectation of wealth among the explorers as well as their view that native\npeoples would not pose a serious obstacle to colonization. In 1493, Columbus sent two copies of a probanza de mérito to the Spanish king and queen and their minister\nof finance, Luis de Santángel.",
+            "metadata": {
+              "book_page": 35,
+              "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+              "section": "2.1 Portuguese Exploration and Spanish Conquest",
+              "is_review_question_page": false,
+              "raw_char_count": 4362,
+              "clean_char_count": 4314,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 0,
+              "char_count": 751
+            },
+            "score": 0.27377072392732027,
+            "rank": 2
+          },
+          {
+            "id": "openstax-us-history_p051_para_005",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 51,
+            "text": "Often I have sent two\nor three men ashore to some town to converse with them, and the natives came out in great numbers,\nand as soon as they saw our men arrive, fled without a moment’s delay although I protected them from\nall injury. What does this letter show us about Spanish objectives in the New World? How do you think it might have\ninfluenced Europeans reading about the New World for the first time? The 1492 Columbus landfall accelerated the rivalry between Spain and Portugal, and the two powers vied for\nDEFINING AMERICAN\n2.1 • Portuguese Exploration and Spanish Conquest 35",
+            "metadata": {
+              "book_page": 35,
+              "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+              "section": "2.1 Portuguese Exploration and Spanish Conquest",
+              "is_review_question_page": false,
+              "raw_char_count": 4362,
+              "clean_char_count": 4314,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 5,
+              "char_count": 584
+            },
+            "score": 0.2644363981919497,
+            "rank": 3
+          }
+        ],
+        "context": "[openstax-us-history_p088_para_003 | data/US_History_-_WEB.pdf | page 88]\nIn witness whereof we have hereunto subscribed our names at Cape Cod the 11th of November, in the\nyear of the reign of our Sovereign Lord King James, of England, France, and Ireland, the eighteenth, and\nAMERICANA\n72 3 • Creating New Social Orders: Colonial Societies, 1500–1700\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-us-history_p088_para_003"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 2870.94,
+    "llm_calls": 2,
+    "prompt_tokens": 1005,
+    "completion_tokens": 98,
+    "cost_usd": 0.00021
+  },
+  {
+    "query_id": "q24",
+    "question": "How much money did the United States agree to pay France in the 1803 Louisiana Purchase treaty?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Louisiana Purchase treaty amount paid to France 1803",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-us-history_p062_para_002",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 62,
+            "text": "(French fashion at the time favored broad-brimmed hats trimmed in beaver fur, so French traders had a ready\nmarket for their North American goods.) The French also dreamed of replicating the wealth of Spain by\ncolonizing the tropical zones. After Spanish control of the Caribbean began to weaken, the French turned their\nattention to small islands in the West Indies, and by 1635 they had colonized two, Guadeloupe and Martinique. Though it lagged far behind Spain, France now boasted its own West Indian colonies. Both islands became\nlucrative sugar plantation sites that turned a profit for French planters by relying on African slave labor.",
+            "metadata": {
+              "book_page": 46,
+              "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+              "section": "2.3 Challenges to Spain’s Supremacy",
+              "is_review_question_page": false,
+              "raw_char_count": 3213,
+              "clean_char_count": 3178,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 2,
+              "char_count": 643
+            },
+            "score": 0.3924318772791785,
+            "rank": 1
+          },
+          {
+            "id": "openstax-us-history_p062_para_000",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 62,
+            "text": "coast of New England in 1603 before traveling farther north. In 1608 he founded Quebec, and he made\nnumerous Atlantic crossings as he worked tirelessly to promote New France. Unlike other imperial powers,\nFrance—through Champlain’s efforts—fostered especially good relationships with native peoples, paving the\nway for French exploration further into the continent: around the Great Lakes, around Hudson Bay, and\neventually to the Mississippi. Champlain made an alliance with the Huron confederacy and the Algonquins and\nagreed to fight with them against their enemy, the Iroquois (Figure 2.12).",
+            "metadata": {
+              "book_page": 46,
+              "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+              "section": "2.3 Challenges to Spain’s Supremacy",
+              "is_review_question_page": false,
+              "raw_char_count": 3213,
+              "clean_char_count": 3178,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 0,
+              "char_count": 595
+            },
+            "score": 0.3645237872093968,
+            "rank": 2
+          },
+          {
+            "id": "openstax-us-history_p061_para_005",
+            "source_id": "openstax-us-history",
+            "source": "data/US_History_-_WEB.pdf",
+            "page": 61,
+            "text": "From 1534 to 1541, he made three voyages of discovery on the Gulf of St. Lawrence and the St. Lawrence River. Like other explorers, Cartier made exaggerated claims of mineral wealth in America, but he\nwas unable to send great riches back to France. Due to resistance from the native peoples as well as his own\nlack of planning, he could not establish a permanent settlement in North America. Explorer Samuel de Champlain occupies a special place in the history of the Atlantic World for his role in\nestablishing the French presence in the New World. Champlain explored the Caribbean in 1601 and then the\n2.3 • Challenges to Spain’s Supremacy 45",
+            "metadata": {
+              "book_page": 45,
+              "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+              "section": "2.3 Challenges to Spain’s Supremacy",
+              "is_review_question_page": false,
+              "raw_char_count": 4544,
+              "clean_char_count": 4494,
+              "is_empty": false,
+              "chunk_type": "paragraph",
+              "chunk_index": 5,
+              "char_count": 644
+            },
+            "score": 0.363944666438622,
+            "rank": 3
+          }
+        ],
+        "context": "[openstax-us-history_p062_para_002 | data/US_History_-_WEB.pdf | page 62]\n(French fashion at the time favored broad-brimmed hats trimmed in beaver fur, so French traders had a ready\nmarket for their North American goods.) The French also dreamed of replicating the wealth of Spain by\ncolonizing the tropical zones. After Spanish control of the Caribbean began to weaken, the French turned their\nattention to small islands in the West Indies, and by 1635 they had colonized two, Guadeloupe and Martinique. Though it lagged far behind Spain, France now boasted its own West Indian colonies. Both islands became\nlucrative sugar plantation sites that turned a profit for French planters by relying on African slave labor.",
+        "context_ids": [
+          "openstax-us-history_p062_para_002"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 2834.04,
+    "llm_calls": 2,
+    "prompt_tokens": 1055,
+    "completion_tokens": 91,
+    "cost_usd": 0.000213
+  }
+]

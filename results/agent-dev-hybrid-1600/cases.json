@@ -1,0 +1,104 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "answerable": true,
+    "question": "How did the Inca communicate and keep records without a written language?"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "answerable": true,
+    "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "answerable": true,
+    "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "answerable": true,
+    "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "answerable": true,
+    "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "answerable": true,
+    "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "answerable": true,
+    "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "answerable": true,
+    "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "answerable": true,
+    "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "answerable": true,
+    "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "answerable": true,
+    "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "answerable": true,
+    "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "answerable": true,
+    "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "answerable": true,
+    "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "answerable": true,
+    "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?"
+  },
+  {
+    "id": "q21",
+    "split": "dev",
+    "answerable": false,
+    "question": "In what year was the United States Declaration of Independence signed by members of the Continental Congress in Philadelphia?"
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "answerable": false,
+    "question": "What specific territorial boundaries were established by the 1783 Treaty of Paris following the American Revolutionary War?"
+  }
+]

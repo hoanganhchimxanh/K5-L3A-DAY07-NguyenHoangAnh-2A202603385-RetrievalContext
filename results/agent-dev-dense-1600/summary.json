@@ -1,0 +1,41 @@
+{
+  "cases": 17,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 17,
+    "N": 17
+  },
+  "grounded_answer": {
+    "0": 2,
+    "1": 0,
+    "2": 13,
+    "N": 15,
+    "mean": 1.7333333333333334
+  },
+  "citation_validity": {
+    "n": 17,
+    "N": 17
+  },
+  "answer_citation_coverage": {
+    "n": 13,
+    "N": 13
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 2,
+    "N": 15
+  },
+  "total_time_seconds": 70.38,
+  "total_cost_usd": 0.005173,
+  "config": {
+    "split": "dev",
+    "retriever": "dense",
+    "budget": 1600,
+    "top_k": 3,
+    "max_searches": 3,
+    "model": "gpt-4o-mini"
+  }
+}

@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "q01",
+    "question": "How did the Inca communicate and keep records without a written language?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 30,
+        "evidence": "The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots and colored strings called the quipu."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p030_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 30,
+        "text": "FIGURE 1.8 The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots and colored strings called the quipu. Each of these knots and strings possessed a distinct meaning\nintelligible to those educated in their significance. The Inca people worshipped their lord who, as a member of an elite ruling class, had absolute authority over\nevery aspect of life. Much like feudal lords in Europe at the time, the ruling class lived off the labor of the\npeasants, collecting vast wealth that accompanied them as they went, mummified, into the next life. The Inca\nfarmed corn, beans, squash, quinoa (a grain cultivated for its seeds), and the indigenous potato on terraced\nland they hacked from the steep mountains.",
+        "metadata": {
+          "book_page": 14,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.1 The Americas",
+          "is_review_question_page": false,
+          "raw_char_count": 2648,
+          "clean_char_count": 2619,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 753
+        },
+        "score": 0.718979807030678,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p029_para_004",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 29,
+        "text": "These roads enabled the rapid movement of the highly\ntrained Incan army. Also like the Romans, the Inca were effective administrators. Runners called chasquis\ntraversed the roads in a continuous relay system, ensuring quick communication over long distances. The Inca\nhad no system of writing, however. They communicated and kept records using a system of colored strings and\nknots called the quipu (Figure 1.8). MY STORY\n1.1 • The Americas 13",
+        "metadata": {
+          "book_page": 13,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.1 The Americas",
+          "is_review_question_page": false,
+          "raw_char_count": 3069,
+          "clean_char_count": 3032,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 4,
+          "char_count": 443
+        },
+        "score": 0.6089641401338886,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p029_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 29,
+        "text": "At its height in the fifteenth and sixteenth centuries,\nthe Inca Empire, located on the Pacific coast and straddling the Andes Mountains, extended some twenty-five\nhundred miles. It stretched from modern-day Colombia in the north to Chile in the south and included cities\nbuilt at an altitude of 14,000 feet above sea level. Its road system, kept free of debris and repaired by workers\nstationed at varying intervals, rivaled that of the Romans and efficiently connected the sprawling empire. The\nInca, like all other pre-Columbian societies, did not use axle-mounted wheels for transportation. They built\nstepped roads to ascend and descend the steep slopes of the Andes; these would have been impractical for\nwheeled vehicles but worked well for pedestrians.",
+        "metadata": {
+          "book_page": 13,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.1 The Americas",
+          "is_review_question_page": false,
+          "raw_char_count": 3069,
+          "clean_char_count": 3032,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 760
+        },
+        "score": 0.502143080955822,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p030_para_000 | data/US_History_-_WEB.pdf | page 30]\nFIGURE 1.8 The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots and colored strings called the quipu. Each of these knots and strings possessed a distinct meaning\nintelligible to those educated in their significance. The Inca people worshipped their lord who, as a member of an elite ruling class, had absolute authority over\nevery aspect of life. Much like feudal lords in Europe at the time, the ruling class lived off the labor of the\npeasants, collecting vast wealth that accompanied them as they went, mummified, into the next life. The Inca\nfarmed corn, beans, squash, quinoa (a grain cultivated for its seeds), and the indigenous potato on terraced\nland they hacked from the steep mountains.\n\n[openstax-us-history_p029_para_004 | data/US_History_-_WEB.pdf | page 29]\nThese roads enabled the rapid movement of the highly\ntrained Incan army. Also like the Romans, the Inca were effective administrators. Runners called chasquis\ntraversed the roads in a continuous relay system, ensuring quick communication over long distances. The Inca\nhad no system of writing, however. They communicated and kept records using a system of colored strings and\nknots called the quipu (Figure 1.8). MY STORY\n1.1 • The Americas 13",
+    "context_ids": [
+      "openstax-us-history_p030_para_000",
+      "openstax-us-history_p029_para_004"
+    ],
+    "context_chars": 1346,
+    "elapsed_ms": 925.7170999990194,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q02",
+    "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 32,
+        "evidence": "this five-square-mile city, now\ncalled Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms\nsurrounding the urban center."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p032_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 32,
+        "text": "The city also contained one hundred and twenty earthen mounds or pyramids,\neach dominating a particular neighborhood and on each of which lived a leader who exercised authority over\nthe surrounding area. The largest mound covered fifteen acres. Cahokia was the hub of political and trading\nactivities along the Mississippi River. After 1300 CE, however, this civilization declined—possibly because the\narea became unable to support the large population. NATIVE PEOPLES OF THE EASTERN WOODLAND\nEncouraged by the wealth found by the Spanish in the settled civilizations to the south, sixteenth- and\nseventeenth-century English, Dutch, and French explorers expected to discover the same in North America.",
+        "metadata": {
+          "book_page": 16,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.1 The Americas",
+          "is_review_question_page": false,
+          "raw_char_count": 3529,
+          "clean_char_count": 3491,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 701
+        },
+        "score": 0.6419578503329709,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p032_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 32,
+        "text": "With these materials they\ncreated necklaces, woven mats, and exquisite carvings. What remains of their culture today are huge burial\nmounds and earthworks. Many of the mounds that were opened by archaeologists contained artworks and\nother goods that indicate their society was socially stratified. Perhaps the largest indigenous cultural and population center in North America was located along the\nMississippi River near present-day St. Louis. At its height in about 1100 CE, this five-square-mile city, now\ncalled Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms\nsurrounding the urban center.",
+        "metadata": {
+          "book_page": 16,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.1 The Americas",
+          "is_review_question_page": false,
+          "raw_char_count": 3529,
+          "clean_char_count": 3491,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 638
+        },
+        "score": 0.594185077962735,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p044_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 44,
+        "text": "In North America,\nthe complex Pueblo societies including the Mogollon, Hohokam, and Anasazi as well as the city at Cahokia had\npeaked and were largely memories. The Eastern Woodland peoples were thriving, but they were soon\noverwhelmed as the number of English, French, and Dutch settlers increased. Mesoamerica and South America had also witnessed the rise and fall of cultures. The once-mighty Mayan\npopulation centers were largely empty. In 1492, however, the Aztecs in Mexico City were at their peak. Subjugating surrounding tribes and requiring tribute of both humans for sacrifice and goods for consumption,\nthe island city of Tenochtitlán was the hub of an ever-widening commercial center and the equal of any large\nEuropean city until Cortés destroyed it.",
+        "metadata": {
+          "book_page": 28,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.3 West Africa and the Role of Slavery",
+          "is_review_question_page": false,
+          "raw_char_count": 3712,
+          "clean_char_count": 3662,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 763
+        },
+        "score": 0.4952832156833928,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p032_para_003 | data/US_History_-_WEB.pdf | page 32]\nThe city also contained one hundred and twenty earthen mounds or pyramids,\neach dominating a particular neighborhood and on each of which lived a leader who exercised authority over\nthe surrounding area. The largest mound covered fifteen acres. Cahokia was the hub of political and trading\nactivities along the Mississippi River. After 1300 CE, however, this civilization declined—possibly because the\narea became unable to support the large population. NATIVE PEOPLES OF THE EASTERN WOODLAND\nEncouraged by the wealth found by the Spanish in the settled civilizations to the south, sixteenth- and\nseventeenth-century English, Dutch, and French explorers expected to discover the same in North America.\n\n[openstax-us-history_p032_para_002 | data/US_History_-_WEB.pdf | page 32]\nWith these materials they\ncreated necklaces, woven mats, and exquisite carvings. What remains of their culture today are huge burial\nmounds and earthworks. Many of the mounds that were opened by archaeologists contained artworks and\nother goods that indicate their society was socially stratified. Perhaps the largest indigenous cultural and population center in North America was located along the\nMississippi River near present-day St. Louis. At its height in about 1100 CE, this five-square-mile city, now\ncalled Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms\nsurrounding the urban center.",
+    "context_ids": [
+      "openstax-us-history_p032_para_003",
+      "openstax-us-history_p032_para_002"
+    ],
+    "context_chars": 1489,
+    "elapsed_ms": 517.3147000004974,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q03",
+    "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 34,
+        "evidence": "Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p034_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 34,
+        "text": "The Christian Church remained intact, however, and emerged from the period as a unified and powerful\ninstitution. Priests, tucked away in monasteries, kept knowledge alive by collecting and copying religious and\nsecular manuscripts, often adding beautiful drawings or artwork. Social and economic devastation arrived in\n1340s, however, when Genoese merchants returning from the Black Sea unwittingly brought with them a rat-\nborne and highly contagious disease, known as the bubonic plague. In a few short years, it had killed many\nmillions, about one-third of Europe’s population. A different strain, spread by airborne germs, also killed\nmany. Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared.",
+        "metadata": {
+          "book_page": 18,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.2 Europe on the Brink of Change",
+          "is_review_question_page": false,
+          "raw_char_count": 1962,
+          "clean_char_count": 1939,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 748
+        },
+        "score": 0.607204584253399,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p034_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 34,
+        "text": "A\nhigh birth rate, however, coupled with bountiful harvests, meant that the population grew during the next\ncentury. By 1450, a newly rejuvenated European society was on the brink of tremendous change. FIGURE 1.12 This image depicts the bodily swellings, or buboes, characteristic of the Black Death. CLICK AND EXPL ORE\nVisit EyeWitness to History (https://openstax.org/l/plague) to learn more about the Black Death. LIFE IN FEUDAL EUROPE\nDuring the Middle Ages, most Europeans lived in small villages that consisted of a manorial house or castle for\nthe lord, a church, and simple homes for the peasants or serfs, who made up about 60 percent of western\nEurope’s population. Hundreds of these castles and walled cities remain all over Europe (Figure 1.13).",
+        "metadata": {
+          "book_page": 18,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.2 Europe on the Brink of Change",
+          "is_review_question_page": false,
+          "raw_char_count": 1962,
+          "clean_char_count": 1939,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 757
+        },
+        "score": 0.5377347025823822,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p068_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 68,
+        "text": "Travelers between the Americas, Africa, and Europe also included microbes: silent, invisible life forms that\nhad profound and devastating consequences. Native peoples had no immunity to diseases from across the\nAtlantic, to which they had never been exposed. European explorers unwittingly brought with them\nchickenpox, measles, mumps, and smallpox, which ravaged native peoples despite their attempts to treat the\ndiseases, decimating some populations and wholly destroying others (Figure 2.16). FIGURE 2.16 This sixteenth-century Aztec drawing shows the suffering of a typical victim of smallpox. Smallpox\nand other contagious diseases brought by European explorers decimated Native populations in the Americas.",
+        "metadata": {
+          "book_page": 52,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 2834,
+          "clean_char_count": 2802,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 713
+        },
+        "score": 0.4971870067899453,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p034_para_000 | data/US_History_-_WEB.pdf | page 34]\nThe Christian Church remained intact, however, and emerged from the period as a unified and powerful\ninstitution. Priests, tucked away in monasteries, kept knowledge alive by collecting and copying religious and\nsecular manuscripts, often adding beautiful drawings or artwork. Social and economic devastation arrived in\n1340s, however, when Genoese merchants returning from the Black Sea unwittingly brought with them a rat-\nborne and highly contagious disease, known as the bubonic plague. In a few short years, it had killed many\nmillions, about one-third of Europe’s population. A different strain, spread by airborne germs, also killed\nmany. Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared.",
+    "context_ids": [
+      "openstax-us-history_p034_para_000"
+    ],
+    "context_chars": 822,
+    "elapsed_ms": 956.3952999997127,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q04",
+    "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?",
+    "filter": {
+      "chapter": "Chapter 1"
+    },
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 40,
+        "evidence": "By 750, the Soninke farmers\nof the sub-Sahara had become wealthy by taxing the trade that passed through their area."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p040_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 40,
+        "text": "For instance, the\nNiger River basin supplied gold to the Berber and Arab traders from west of the Nile Valley, who brought cloth,\nweapons, and manufactured goods into the interior. Huge Saharan salt mines supplied the life-sustaining\nmineral to the Mediterranean coast of Africa and inland areas. By 900, the monotheistic Muslims controlled\nmost of this trade and had converted many of the African ruling elite. The majority of the population, however,\nmaintained their tribal animistic practices, which gave living attributes to nonliving objects such as\nmountains, rivers, and wind. Because Ghana’s king controlled the gold supply, he was able to maintain price\ncontrols and afford a strong military. Soon, however, a new kingdom emerged.",
+        "metadata": {
+          "book_page": 24,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.3 West Africa and the Role of Slavery",
+          "is_review_question_page": false,
+          "raw_char_count": 2765,
+          "clean_char_count": 2733,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 740
+        },
+        "score": 0.5906784843836604,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p040_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 40,
+        "text": "FIGURE 1.16 This map shows the general locations of major West African empires before 1492. Along the\nMediterranean coast, Muslim states prevailed. By 1200 CE, under the leadership of Sundiata Keita, Mali had replaced Ghana as the leading state in West\nAfrica. After Sundiata’s rule, the court converted to Islam, and Muslim scribes played a large part in\nadministration and government. Miners then discovered huge new deposits of gold east of the Niger River. By\nthe fourteenth century, the empire was so wealthy that while on a hajj, or pilgrimage to the holy city of Mecca,\nMali’s ruler Mansu Musa gave away enough gold to create serious price inflation in the cities along his route. Timbuktu, the capital city, became a leading Islamic center for education, commerce and the slave trade.",
+        "metadata": {
+          "book_page": 24,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.3 West Africa and the Role of Slavery",
+          "is_review_question_page": false,
+          "raw_char_count": 2765,
+          "clean_char_count": 2733,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 792
+        },
+        "score": 0.517914756520933,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p039_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 39,
+        "text": "In the more\nheavily wooded area near the equator, farmers raised yams, palm products, or plantains. The savanna areas\nyielded rice, millet, and sorghum. Sub-Saharan Africans had little experience in maritime matters. Most of the\npopulation lived away from the coast, which is connected to the interior by five main rivers—the Senegal,\nGambia, Niger, Volta, and Congo. Although there were large trading centers along these rivers, most West Africans lived in small villages and\nidentified with their extended family or their clan. Wives, children, and dependents (including enslaved\npeople) were a sign of wealth among men, and polygyny, the practice of having more than one wife at a time,\nwas widespread.",
+        "metadata": {
+          "book_page": 23,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.3 West Africa and the Role of Slavery",
+          "is_review_question_page": false,
+          "raw_char_count": 2830,
+          "clean_char_count": 2794,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 705
+        },
+        "score": 0.5178131260257809,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p040_para_001 | data/US_History_-_WEB.pdf | page 40]\nFor instance, the\nNiger River basin supplied gold to the Berber and Arab traders from west of the Nile Valley, who brought cloth,\nweapons, and manufactured goods into the interior. Huge Saharan salt mines supplied the life-sustaining\nmineral to the Mediterranean coast of Africa and inland areas. By 900, the monotheistic Muslims controlled\nmost of this trade and had converted many of the African ruling elite. The majority of the population, however,\nmaintained their tribal animistic practices, which gave living attributes to nonliving objects such as\nmountains, rivers, and wind. Because Ghana’s king controlled the gold supply, he was able to maintain price\ncontrols and afford a strong military. Soon, however, a new kingdom emerged.\n\n[openstax-us-history_p039_para_002 | data/US_History_-_WEB.pdf | page 39]\nIn the more\nheavily wooded area near the equator, farmers raised yams, palm products, or plantains. The savanna areas\nyielded rice, millet, and sorghum. Sub-Saharan Africans had little experience in maritime matters. Most of the\npopulation lived away from the coast, which is connected to the interior by five main rivers—the Senegal,\nGambia, Niger, Volta, and Congo. Although there were large trading centers along these rivers, most West Africans lived in small villages and\nidentified with their extended family or their clan. Wives, children, and dependents (including enslaved\npeople) were a sign of wealth among men, and polygyny, the practice of having more than one wife at a time,\nwas widespread.",
+    "context_ids": [
+      "openstax-us-history_p040_para_001",
+      "openstax-us-history_p039_para_002"
+    ],
+    "context_chars": 1595,
+    "elapsed_ms": 508.4862999992765,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "id": "q05",
+    "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 42,
+        "evidence": "seeing the near extinction of the native\npopulation, suggested the Spanish send Black (and White) laborers to the Indies."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p064_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 64,
+        "text": "A Dominican friar, Las Casas had been one of\nthe earliest Spanish settlers in the Spanish West Indies. In his early life in the Americas, he enslaved Native\npeople and was the recipient of an encomienda. However, after witnessing the savagery with which\nencomenderos (recipients of encomiendas) treated the native people, he reversed his views. In 1515, Las Casas\nreleased his enslaved natives, gave up his encomienda, and began to advocate for humane treatment of native\npeoples. He lobbied for new legislation, eventually known as the New Laws, which would eliminate slavery and\nthe encomienda system.",
+        "metadata": {
+          "book_page": 48,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 3281,
+          "clean_char_count": 3245,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 603
+        },
+        "score": 0.6803023487905018,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p042_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 42,
+        "text": "Initially, the Spanish and Portuguese tried to force\nNative people to farm their crops. However, enslaved Native people often became sick or died from disease or\nfrom the overwork and cruel treatment they were subjected to. Although he later repented of his ideas, the\ngreat defender of the Native peoples, Bartolomé de Las Casas, seeing the near extinction of the native\npopulation, suggested the Spanish send Black (and White) laborers to the Indies. The Portuguese did the same\nin their portions of the New World, particularly for the sugar plantations in Brazil.",
+        "metadata": {
+          "book_page": 26,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "1.3 West Africa and the Role of Slavery",
+          "is_review_question_page": false,
+          "raw_char_count": 2833,
+          "clean_char_count": 2800,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 566
+        },
+        "score": 0.6605510434664944,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p065_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 65,
+        "text": "Bartolomé de Las Casas on the Mistreatment of Native Peoples\nBartolomé de Las Casas’s A Short Account of the Destruction of the Indies, written in 1542 and published ten\nyears later, detailed for Prince Philip II of Spain how Spanish colonists had been mistreating natives. Into and among these gentle sheep, endowed by their Maker and Creator with all the qualities aforesaid,\ndid creep the Spaniards, who no sooner had knowledge of these people than they became like fierce\nwolves and tigers and lions who have gone many days without food or nourishment.",
+        "metadata": {
+          "book_page": 49,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 4456,
+          "clean_char_count": 4408,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 556
+        },
+        "score": 0.6307176340571092,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p064_para_003 | data/US_History_-_WEB.pdf | page 64]\nA Dominican friar, Las Casas had been one of\nthe earliest Spanish settlers in the Spanish West Indies. In his early life in the Americas, he enslaved Native\npeople and was the recipient of an encomienda. However, after witnessing the savagery with which\nencomenderos (recipients of encomiendas) treated the native people, he reversed his views. In 1515, Las Casas\nreleased his enslaved natives, gave up his encomienda, and began to advocate for humane treatment of native\npeoples. He lobbied for new legislation, eventually known as the New Laws, which would eliminate slavery and\nthe encomienda system.\n\n[openstax-us-history_p042_para_001 | data/US_History_-_WEB.pdf | page 42]\nInitially, the Spanish and Portuguese tried to force\nNative people to farm their crops. However, enslaved Native people often became sick or died from disease or\nfrom the overwork and cruel treatment they were subjected to. Although he later repented of his ideas, the\ngreat defender of the Native peoples, Bartolomé de Las Casas, seeing the near extinction of the native\npopulation, suggested the Spanish send Black (and White) laborers to the Indies. The Portuguese did the same\nin their portions of the New World, particularly for the sugar plantations in Brazil.",
+    "context_ids": [
+      "openstax-us-history_p064_para_003",
+      "openstax-us-history_p042_para_001"
+    ],
+    "context_chars": 1319,
+    "elapsed_ms": 476.99480000119365,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q06",
+    "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 52,
+        "evidence": "Spain gained territory west of the line, while Portugal\nretained the lands east of the line, including the east coast of Brazil."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p052_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 52,
+        "text": "The resulting Treaty of Tordesillas in 1494 drew a north-\nto-south line through South America (Figure 2.5); Spain gained territory west of the line, while Portugal\nretained the lands east of the line, including the east coast of Brazil. FIGURE 2.5 This 1502 map, known as the Cantino World Map, depicts the cartographer’s interpretation of the\nworld in light of recent discoveries. The map shows areas of Portuguese and Spanish exploration, the two nations’\nclaims under the Treaty of Tordesillas, and a variety of flora, fauna, figures, and structures. What does it reveal about\nthe state of geographical knowledge, as well as European perceptions of the New World, at the beginning of the\nsixteenth century? Columbus’s discovery opened a floodgate of Spanish exploration.",
+        "metadata": {
+          "book_page": 36,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.1 Portuguese Exploration and Spanish Conquest",
+          "is_review_question_page": false,
+          "raw_char_count": 3360,
+          "clean_char_count": 3325,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 773
+        },
+        "score": 0.7579986768350637,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p052_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 52,
+        "text": "domination through the acquisition of new lands. In the 1480s, Pope Sixtus IV had granted Portugal the right to\nall land south of the Cape Verde islands, leading the Portuguese king to claim that the lands discovered by\nColumbus belonged to Portugal, not Spain. Seeking to ensure that Columbus’s finds would remain Spanish,\nSpain’s monarchs turned to the Spanish-born Pope Alexander VI, who issued two papal decrees in 1493 that\ngave legitimacy to Spain’s Atlantic claims at the expense of Portugal. Hoping to salvage Portugal’s Atlantic\nholdings, King João II began negotiations with Spain.",
+        "metadata": {
+          "book_page": 36,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.1 Portuguese Exploration and Spanish Conquest",
+          "is_review_question_page": false,
+          "raw_char_count": 3360,
+          "clean_char_count": 3325,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 591
+        },
+        "score": 0.6733054714680861,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p050_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 50,
+        "text": "The Reconquista marked another step forward in the process of making\nSpain an imperial power, and Ferdinand and Isabella were now ready to look further afield. Their goals were to expand Catholicism and to gain a commercial advantage over Portugal. To those ends,\nFerdinand and Isabella sponsored extensive Atlantic exploration. Spain’s most famous explorer, Christopher\nColumbus, was actually from Genoa, Italy. He believed that, using calculations based on other mariners’\njourneys, he could chart a westward route to India, which could be used to expand European trade and spread\nChristianity. Starting in 1485, he approached Genoese, Venetian, Portuguese, English, and Spanish monarchs,\nasking for ships and funding to explore this westward route.",
+        "metadata": {
+          "book_page": 34,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.1 Portuguese Exploration and Spanish Conquest",
+          "is_review_question_page": false,
+          "raw_char_count": 3795,
+          "clean_char_count": 3755,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 751
+        },
+        "score": 0.5669063267084711,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p052_para_001 | data/US_History_-_WEB.pdf | page 52]\nThe resulting Treaty of Tordesillas in 1494 drew a north-\nto-south line through South America (Figure 2.5); Spain gained territory west of the line, while Portugal\nretained the lands east of the line, including the east coast of Brazil. FIGURE 2.5 This 1502 map, known as the Cantino World Map, depicts the cartographer’s interpretation of the\nworld in light of recent discoveries. The map shows areas of Portuguese and Spanish exploration, the two nations’\nclaims under the Treaty of Tordesillas, and a variety of flora, fauna, figures, and structures. What does it reveal about\nthe state of geographical knowledge, as well as European perceptions of the New World, at the beginning of the\nsixteenth century? Columbus’s discovery opened a floodgate of Spanish exploration.\n\n[openstax-us-history_p052_para_000 | data/US_History_-_WEB.pdf | page 52]\ndomination through the acquisition of new lands. In the 1480s, Pope Sixtus IV had granted Portugal the right to\nall land south of the Cape Verde islands, leading the Portuguese king to claim that the lands discovered by\nColumbus belonged to Portugal, not Spain. Seeking to ensure that Columbus’s finds would remain Spanish,\nSpain’s monarchs turned to the Spanish-born Pope Alexander VI, who issued two papal decrees in 1493 that\ngave legitimacy to Spain’s Atlantic claims at the expense of Portugal. Hoping to salvage Portugal’s Atlantic\nholdings, King João II began negotiations with Spain.",
+    "context_ids": [
+      "openstax-us-history_p052_para_001",
+      "openstax-us-history_p052_para_000"
+    ],
+    "context_chars": 1514,
+    "elapsed_ms": 479.00860000117973,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q07",
+    "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 52,
+        "evidence": "Hernán Cortés\nhoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual\npension for his service to the crown."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p052_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 52,
+        "text": "Inspired by tales of rivers of gold and timid,\nmalleable natives, later Spanish explorers were relentless in their quest for land and gold. Hernán Cortés\nhoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual\npension for his service to the crown. Cortés arrived on Hispaniola in 1504 and took part in the conquest of that\nisland. In anticipation of winning his own honor and riches, Cortés later explored the Yucatán Peninsula. In\n1519, he entered Tenochtitlán, the capital of the Aztec (Mexica) Empire. He and his men were astonished by\nthe incredibly sophisticated causeways, gardens, and temples in the city, but they were horrified by the\npractice of human sacrifice that was part of the Aztec religion.",
+        "metadata": {
+          "book_page": 36,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.1 Portuguese Exploration and Spanish Conquest",
+          "is_review_question_page": false,
+          "raw_char_count": 3360,
+          "clean_char_count": 3325,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 758
+        },
+        "score": 0.6388564929569895,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p064_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 64,
+        "text": "Everywhere in the Americas, a crushing demand for labor bedeviled\nEuropeans because there were not enough colonists to perform the work necessary to keep the colonies going. Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the\ncrown. This system reflected the Spanish view of colonization: the king rewarded successful conquistadors\nwho expanded the empire. Some native peoples who had sided with the conquistadors, like the Tlaxcalan, also\ngained encomiendas; Malintzin, the Nahua woman who helped Cortés defeat the Mexica, was granted one. The Spanish believed native peoples would work for them by right of conquest, and, in return, the Spanish\nwould bring them Catholicism.",
+        "metadata": {
+          "book_page": 48,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 3281,
+          "clean_char_count": 3245,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 733
+        },
+        "score": 0.60886795208147,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p053_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 53,
+        "text": "Cortés was also aided by a Nahua woman called Malintzin (also known as La Malinche or Doña Marina, her\nSpanish name), whom the natives of Tabasco gave him as tribute. Malintzin translated for Cortés in his\ndealings with Moctezuma and, whether willingly or under pressure, entered into a physical relationship with\nhim. Their son, Martín, may have been the first mestizo (person of mixed indigenous American and European\ndescent). Malintzin remains a controversial figure in the history of the Atlantic World; some people view her as\na traitor because she helped Cortés conquer the Aztecs, while others see her as a victim of European\nexpansion. In either case, she demonstrates one way in which native peoples responded to the arrival of the\nSpanish.",
+        "metadata": {
+          "book_page": 37,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.1 Portuguese Exploration and Spanish Conquest",
+          "is_review_question_page": false,
+          "raw_char_count": 4115,
+          "clean_char_count": 4071,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 750
+        },
+        "score": 0.5587942973246269,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p052_para_002 | data/US_History_-_WEB.pdf | page 52]\nInspired by tales of rivers of gold and timid,\nmalleable natives, later Spanish explorers were relentless in their quest for land and gold. Hernán Cortés\nhoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual\npension for his service to the crown. Cortés arrived on Hispaniola in 1504 and took part in the conquest of that\nisland. In anticipation of winning his own honor and riches, Cortés later explored the Yucatán Peninsula. In\n1519, he entered Tenochtitlán, the capital of the Aztec (Mexica) Empire. He and his men were astonished by\nthe incredibly sophisticated causeways, gardens, and temples in the city, but they were horrified by the\npractice of human sacrifice that was part of the Aztec religion.",
+    "context_ids": [
+      "openstax-us-history_p052_para_002"
+    ],
+    "context_chars": 832,
+    "elapsed_ms": 675.9861999998975,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q08",
+    "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?",
+    "filter": {
+      "chapter": "Chapter 2"
+    },
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 56,
+        "evidence": "Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of\nthe German painter Lucas Cranach the Elder."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p055_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 55,
+        "text": "The Vatican\nin Rome exercised great power over the lives of Europeans; it controlled not only learning and scholarship but\nalso finances, because it levied taxes on the faithful. Spain, with its New World wealth, was the bastion of the\nCatholic faith. Beginning with the reform efforts of Martin Luther in 1517 and John Calvin in the 1530s,\nhowever, Catholic dominance came under attack as the Protestant Reformation, a split or schism among\nEuropean Christians, began. During the sixteenth century, Protestantism spread through northern Europe, and Catholic countries\nresponded by attempting to extinguish what was seen as the Protestant menace.",
+        "metadata": {
+          "book_page": 39,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.2 Religious Upheavals in the Developing Atlantic World",
+          "is_review_question_page": false,
+          "raw_char_count": 2315,
+          "clean_char_count": 2285,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 646
+        },
+        "score": 0.6276718891081413,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p056_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 56,
+        "text": "FIGURE 2.8 Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of\nthe German painter Lucas Cranach the Elder. Cranach painted this and several other portraits of Luther. Many Europeans had called for reforms of the Catholic Church before Martin Luther did, but his protest had\nthe unintended consequence of splitting European Christianity. Luther compiled a list of what he viewed as\nneeded Church reforms, a document that came to be known as The Ninety-Five Theses, and nailed it to the\ndoor of a church in Wittenberg, Germany, in 1517.",
+        "metadata": {
+          "book_page": 40,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.2 Religious Upheavals in the Developing Atlantic World",
+          "is_review_question_page": false,
+          "raw_char_count": 2879,
+          "clean_char_count": 2844,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 584
+        },
+        "score": 0.601147570315145,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p069_para_005",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 69,
+        "text": "The reformist doctrines of\nMartin Luther and John Calvin attracted many people dissatisfied with Catholicism, and Protestantism spread\nacross northern Europe, spawning many subgroups with conflicting beliefs. Spain led the charge against\nProtestantism, leading to decades of undeclared religious wars between Spain and England, and religious\n2 • Key Terms 53",
+        "metadata": {
+          "book_page": 53,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 3652,
+          "clean_char_count": 3601,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 5,
+          "char_count": 358
+        },
+        "score": 0.5838656971579838,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p055_para_001 | data/US_History_-_WEB.pdf | page 55]\nThe Vatican\nin Rome exercised great power over the lives of Europeans; it controlled not only learning and scholarship but\nalso finances, because it levied taxes on the faithful. Spain, with its New World wealth, was the bastion of the\nCatholic faith. Beginning with the reform efforts of Martin Luther in 1517 and John Calvin in the 1530s,\nhowever, Catholic dominance came under attack as the Protestant Reformation, a split or schism among\nEuropean Christians, began. During the sixteenth century, Protestantism spread through northern Europe, and Catholic countries\nresponded by attempting to extinguish what was seen as the Protestant menace.\n\n[openstax-us-history_p056_para_000 | data/US_History_-_WEB.pdf | page 56]\nFIGURE 2.8 Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of\nthe German painter Lucas Cranach the Elder. Cranach painted this and several other portraits of Luther. Many Europeans had called for reforms of the Catholic Church before Martin Luther did, but his protest had\nthe unintended consequence of splitting European Christianity. Luther compiled a list of what he viewed as\nneeded Church reforms, a document that came to be known as The Ninety-Five Theses, and nailed it to the\ndoor of a church in Wittenberg, Germany, in 1517.",
+    "context_ids": [
+      "openstax-us-history_p055_para_001",
+      "openstax-us-history_p056_para_000"
+    ],
+    "context_chars": 1380,
+    "elapsed_ms": 526.6781999998784,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q09",
+    "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 59,
+        "evidence": "The only trace the colonists left behind\nwas the word Croatoan carved into a fence surrounding the village."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p059_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 59,
+        "text": "The\ncolony was small, consisting of only 117 people, who suffered a poor relationship with the local Croatans, and\nstruggled to survive in their new land (Figure 2.11). Their governor, John White, returned to England in late\n1587 to secure more people and supplies, but events conspired to keep him away from Roanoke for three\nyears. By the time he returned in 1590, the entire colony had vanished. The only trace the colonists left behind\nwas the word Croatoan carved into a fence surrounding the village. Governor White never knew whether the\ncolonists had decamped for nearby Croatoan Island (now Hatteras) or whether some disaster had befallen\nthem all.",
+        "metadata": {
+          "book_page": 43,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.3 Challenges to Spain’s Supremacy",
+          "is_review_question_page": false,
+          "raw_char_count": 3550,
+          "clean_char_count": 3511,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 657
+        },
+        "score": 0.6533298634870222,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p059_para_004",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 59,
+        "text": "Roanoke is still called “the lost colony.”\nFIGURE 2.11 In 1588, a promoter of English colonization named Thomas Hariot published A Briefe and True Report\nof the New Found Land of Virginia, which contained many engravings of the native peoples who lived on the Carolina\ncoast in the 1580s. This print, “The brovvyllinge of their fishe ouer the flame” (1590) by Theodor de Bry, shows the\ningenuity and wisdom of the “savages” of the New World. (credit: UNC Chapel Hill)\nEnglish promoters of colonization pushed its commercial advantages and the religious justification that\n2.3 • Challenges to Spain’s Supremacy 43",
+        "metadata": {
+          "book_page": 43,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.3 Challenges to Spain’s Supremacy",
+          "is_review_question_page": false,
+          "raw_char_count": 3550,
+          "clean_char_count": 3511,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 4,
+          "char_count": 612
+        },
+        "score": 0.5681420206177795,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p069_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 69,
+        "text": "that began with Martin Luther and John Calvin in the early\nsixteenth century\nPuritans a group of religious reformers in the sixteenth and seventeenth centuries who wanted to “purify” the\nChurch of England by ridding it of practices associated with the Catholic Church and advocating greater\npurity of doctrine and worship\nRoanoke the first English colony in Virginia, which mysteriously disappeared sometime between 1587 and\n1590\nSeparatists a faction of Puritans who advocated complete separation from the Church of England\nsmallpox a disease that Europeans accidentally brought to the New World, killing millions of Native\nAmericans, who had no immunity to the disease\nsugarcane one of the primary crops of the Americas, which required a tremendous amount of labor to\ncultivate\nSummary\n2.1 Portugue",
+        "metadata": {
+          "book_page": 53,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 3652,
+          "clean_char_count": 3601,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 800
+        },
+        "score": 0.4527434720973714,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p059_para_003 | data/US_History_-_WEB.pdf | page 59]\nThe\ncolony was small, consisting of only 117 people, who suffered a poor relationship with the local Croatans, and\nstruggled to survive in their new land (Figure 2.11). Their governor, John White, returned to England in late\n1587 to secure more people and supplies, but events conspired to keep him away from Roanoke for three\nyears. By the time he returned in 1590, the entire colony had vanished. The only trace the colonists left behind\nwas the word Croatoan carved into a fence surrounding the village. Governor White never knew whether the\ncolonists had decamped for nearby Croatoan Island (now Hatteras) or whether some disaster had befallen\nthem all.\n\n[openstax-us-history_p059_para_004 | data/US_History_-_WEB.pdf | page 59]\nRoanoke is still called “the lost colony.”\nFIGURE 2.11 In 1588, a promoter of English colonization named Thomas Hariot published A Briefe and True Report\nof the New Found Land of Virginia, which contained many engravings of the native peoples who lived on the Carolina\ncoast in the 1580s. This print, “The brovvyllinge of their fishe ouer the flame” (1590) by Theodor de Bry, shows the\ningenuity and wisdom of the “savages” of the New World. (credit: UNC Chapel Hill)\nEnglish promoters of colonization pushed its commercial advantages and the religious justification that\n2.3 • Challenges to Spain’s Supremacy 43",
+    "context_ids": [
+      "openstax-us-history_p059_para_003",
+      "openstax-us-history_p059_para_004"
+    ],
+    "context_chars": 1419,
+    "elapsed_ms": 477.28360000110115,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q10",
+    "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 64,
+        "evidence": "Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the\ncrown."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p064_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 64,
+        "text": "Everywhere in the Americas, a crushing demand for labor bedeviled\nEuropeans because there were not enough colonists to perform the work necessary to keep the colonies going. Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the\ncrown. This system reflected the Spanish view of colonization: the king rewarded successful conquistadors\nwho expanded the empire. Some native peoples who had sided with the conquistadors, like the Tlaxcalan, also\ngained encomiendas; Malintzin, the Nahua woman who helped Cortés defeat the Mexica, was granted one. The Spanish believed native peoples would work for them by right of conquest, and, in return, the Spanish\nwould bring them Catholicism.",
+        "metadata": {
+          "book_page": 48,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 3281,
+          "clean_char_count": 3245,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 733
+        },
+        "score": 0.6586630656979331,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p064_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 64,
+        "text": "In theory the relationship consisted of reciprocal obligations, but in practice\nthe Spaniards ruthlessly exploited it, seeing native people as little more than beasts of burden. Convinced of\ntheir right to the land and its peoples, they sought both to control native labor and to impose what they viewed\nas correct religious beliefs upon the land’s inhabitants. Native peoples everywhere resisted both the labor\nobligations and the effort to change their ancient belief systems. Indeed, many retained their religion or\nincorporated only the parts of Catholicism that made sense to them. The system of encomiendas was accompanied by a great deal of violence (Figure 2.14). One Spaniard,\nBartolomé de Las Casas, denounced the brutality of Spanish rule.",
+        "metadata": {
+          "book_page": 48,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 3281,
+          "clean_char_count": 3245,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 750
+        },
+        "score": 0.5949122963783892,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p074_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 74,
+        "text": "In all matters, the Spanish held\nthemselves to be atop the social pyramid, with Native peoples and Africans beneath them. Both Africans and\nnative peoples, however, contested Spanish claims to dominance. Everywhere the Spanish settled, they\nbrought devastating diseases, such as smallpox, that led to a horrific loss of life among native peoples. European diseases killed far more native inhabitants than did Spanish swords. The world Native peoples had known before the coming of the Spanish was further upset by Spanish colonial\npractices. The Spanish imposed the encomienda system in the areas they controlled.",
+        "metadata": {
+          "book_page": 58,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.1 Spanish Exploration and Colonial Society",
+          "is_review_question_page": false,
+          "raw_char_count": 2845,
+          "clean_char_count": 2811,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 613
+        },
+        "score": 0.5490178514901808,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p064_para_001 | data/US_History_-_WEB.pdf | page 64]\nEverywhere in the Americas, a crushing demand for labor bedeviled\nEuropeans because there were not enough colonists to perform the work necessary to keep the colonies going. Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the\ncrown. This system reflected the Spanish view of colonization: the king rewarded successful conquistadors\nwho expanded the empire. Some native peoples who had sided with the conquistadors, like the Tlaxcalan, also\ngained encomiendas; Malintzin, the Nahua woman who helped Cortés defeat the Mexica, was granted one. The Spanish believed native peoples would work for them by right of conquest, and, in return, the Spanish\nwould bring them Catholicism.\n\n[openstax-us-history_p074_para_001 | data/US_History_-_WEB.pdf | page 74]\nIn all matters, the Spanish held\nthemselves to be atop the social pyramid, with Native peoples and Africans beneath them. Both Africans and\nnative peoples, however, contested Spanish claims to dominance. Everywhere the Spanish settled, they\nbrought devastating diseases, such as smallpox, that led to a horrific loss of life among native peoples. European diseases killed far more native inhabitants than did Spanish swords. The world Native peoples had known before the coming of the Spanish was further upset by Spanish colonial\npractices. The Spanish imposed the encomienda system in the areas they controlled.",
+    "context_ids": [
+      "openstax-us-history_p064_para_001",
+      "openstax-us-history_p074_para_001"
+    ],
+    "context_chars": 1496,
+    "elapsed_ms": 469.45120000054885,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q11",
+    "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 66,
+        "evidence": "As Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives\nand landscapes on both sides of the ocean."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p068_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 68,
+        "text": "CLICK AND EXPL ORE\nVisit Nature Transformed (https://openstax.org/l/naturetrans) for a collection of scholarly essays on the\nenvironment in American history. The crossing of the Atlantic by plants like cacao and tobacco illustrates the ways in which the discovery of the\nNew World changed the habits and behaviors of Europeans. Europeans changed the New World in turn, not\nleast by bringing Old World animals to the Americas. On his second voyage, Christopher Columbus brought\npigs, horses, cows, and chickens to the islands of the Caribbean. Later explorers followed suit, introducing new\nanimals or reintroducing ones that had died out (like horses). With less vulnerability to disease, these animals\noften fared better than humans in their new home, thriving both in the wild and in domestication.",
+        "metadata": {
+          "book_page": 52,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 2834,
+          "clean_char_count": 2802,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 800
+        },
+        "score": 0.6742296667994101,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p066_para_005",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 66,
+        "text": "THE COLUMBIAN EXCHANGE\nAs Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives\nand landscapes on both sides of the ocean. These two-way exchanges between the Americas and Europe/Africa\nare known collectively as the Columbian Exchange (Figure 2.15). 50 2 • Early Globalization: The Atlantic World, 1492–1650\nAccess for free at openstax.org",
+        "metadata": {
+          "book_page": 50,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 3853,
+          "clean_char_count": 3808,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 5,
+          "char_count": 391
+        },
+        "score": 0.6182814657174976,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p068_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 68,
+        "text": "Europeans encountered New World animals as well. Because European Christians understood the world as a\nplace of warfare between God and Satan, many believed the Americas, which lacked Christianity, were home to\nthe Devil and his minions. The exotic, sometimes bizarre, appearances and habits of animals in the Americas\nthat were previously unknown to Europeans, such as manatees, sloths, and poisonous snakes, confirmed this\nassociation. Over time, however, they began to rely more on observation of the natural world than solely on\nscripture. This shift—from seeing the Bible as the source of all received wisdom to trusting observation or\nempiricism—is one of the major outcomes of the era of early globalization.",
+        "metadata": {
+          "book_page": 52,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.4 New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange",
+          "is_review_question_page": false,
+          "raw_char_count": 2834,
+          "clean_char_count": 2802,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 715
+        },
+        "score": 0.5755346368568129,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p068_para_000 | data/US_History_-_WEB.pdf | page 68]\nCLICK AND EXPL ORE\nVisit Nature Transformed (https://openstax.org/l/naturetrans) for a collection of scholarly essays on the\nenvironment in American history. The crossing of the Atlantic by plants like cacao and tobacco illustrates the ways in which the discovery of the\nNew World changed the habits and behaviors of Europeans. Europeans changed the New World in turn, not\nleast by bringing Old World animals to the Americas. On his second voyage, Christopher Columbus brought\npigs, horses, cows, and chickens to the islands of the Caribbean. Later explorers followed suit, introducing new\nanimals or reintroducing ones that had died out (like horses). With less vulnerability to disease, these animals\noften fared better than humans in their new home, thriving both in the wild and in domestication.\n\n[openstax-us-history_p066_para_005 | data/US_History_-_WEB.pdf | page 66]\nTHE COLUMBIAN EXCHANGE\nAs Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives\nand landscapes on both sides of the ocean. These two-way exchanges between the Americas and Europe/Africa\nare known collectively as the Columbian Exchange (Figure 2.15). 50 2 • Early Globalization: The Atlantic World, 1492–1650\nAccess for free at openstax.org",
+    "context_ids": [
+      "openstax-us-history_p068_para_000",
+      "openstax-us-history_p066_para_005"
+    ],
+    "context_chars": 1341,
+    "elapsed_ms": 380.6664000003366,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q12",
+    "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 75,
+        "evidence": "In 1565, the victorious Menéndez founded St. Augustine, now the oldest European settlement in the Americas."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p098_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 98,
+        "text": "Augustine, the first\nSpanish settlement in North America\nwampum shell beads used in ceremonies and as jewelry and currency\nSummary\n3.1 Spanish Exploration and Colonial Society\nIn their outposts at St. Augustine and Santa Fe, the Spanish never found the fabled mountains of gold they\nsought. They did find many native people to convert to Catholicism, but their zeal nearly cost them the colony\nof Santa Fe, which they lost for twelve years after the Pueblo Revolt. In truth, the grand dreams of wealth,\nconversion, and a social order based on Spanish control never came to pass as Spain envisioned them.",
+        "metadata": {
+          "book_page": 82,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "Chapter 3 Summary & Key Terms",
+          "is_review_question_page": false,
+          "raw_char_count": 3445,
+          "clean_char_count": 3397,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 603
+        },
+        "score": 0.4922267221065839,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p098_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 98,
+        "text": "3.2 Colonial Rivalries: Dutch and French Colonial Ambitions\nThe French and Dutch established colonies in the northeastern part of North America: the Dutch in present-\nday New York, and the French in present-day Canada. Both colonies were primarily trading posts for furs. While they failed to attract many colonists from their respective home countries, these outposts nonetheless\nintensified imperial rivalries in North America. Both the Dutch and the French relied on native peoples to\nharvest the pelts that proved profitable in Europe. 3.3 English Settlements in America\nThe English came late to colonization of the Americas, establishing stable settlements in the 1600s after\nseveral unsuccessful attempts in the 1500s.",
+        "metadata": {
+          "book_page": 82,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "Chapter 3 Summary & Key Terms",
+          "is_review_question_page": false,
+          "raw_char_count": 3445,
+          "clean_char_count": 3397,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 724
+        },
+        "score": 0.48131846887929125,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p073_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 73,
+        "text": "INTRODUCTION\nCHAPTER OUTLINE\n3.1 Spanish Exploration and Colonial Society\n3.2 Colonial Rivalries: Dutch and French Colonial Ambitions\n3.3 English Settlements in America\n3.4 The Impact of Colonization\nBy the mid-seventeenth century, the geopolitical map of North America had become a\npatchwork of imperial designs and ambitions as the Spanish, Dutch, French, and English reinforced their\nclaims to parts of the land. Uneasiness, punctuated by violent clashes, prevailed in the border zones between\nthe Europeans’ territorial claims. Meanwhile, still-powerful native peoples waged war to drive the invaders\nfrom the continent. In the Chesapeake Bay and New England colonies, conflicts erupted as the English pushed\nagainst their native neighbors (Figure 3.1).",
+        "metadata": {
+          "book_page": 57,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "Chapter Introduction",
+          "is_review_question_page": false,
+          "raw_char_count": 1804,
+          "clean_char_count": 1779,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 757
+        },
+        "score": 0.47692395621474,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p098_para_002 | data/US_History_-_WEB.pdf | page 98]\nAugustine, the first\nSpanish settlement in North America\nwampum shell beads used in ceremonies and as jewelry and currency\nSummary\n3.1 Spanish Exploration and Colonial Society\nIn their outposts at St. Augustine and Santa Fe, the Spanish never found the fabled mountains of gold they\nsought. They did find many native people to convert to Catholicism, but their zeal nearly cost them the colony\nof Santa Fe, which they lost for twelve years after the Pueblo Revolt. In truth, the grand dreams of wealth,\nconversion, and a social order based on Spanish control never came to pass as Spain envisioned them.\n\n[openstax-us-history_p098_para_003 | data/US_History_-_WEB.pdf | page 98]\n3.2 Colonial Rivalries: Dutch and French Colonial Ambitions\nThe French and Dutch established colonies in the northeastern part of North America: the Dutch in present-\nday New York, and the French in present-day Canada. Both colonies were primarily trading posts for furs. While they failed to attract many colonists from their respective home countries, these outposts nonetheless\nintensified imperial rivalries in North America. Both the Dutch and the French relied on native peoples to\nharvest the pelts that proved profitable in Europe. 3.3 English Settlements in America\nThe English came late to colonization of the Americas, establishing stable settlements in the 1600s after\nseveral unsuccessful attempts in the 1500s.",
+    "context_ids": [
+      "openstax-us-history_p098_para_002",
+      "openstax-us-history_p098_para_003"
+    ],
+    "context_chars": 1477,
+    "elapsed_ms": 453.4291999989364,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "id": "q13",
+    "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 78,
+        "evidence": "it granted Dutch merchants who invested heavily in it patroonships, or large tracts of\nland and the right to govern the tenants there."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p078_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 78,
+        "text": "FIGURE 3.6 This 1684 map of New Netherland shows the extent of Dutch settlement. The Dutch West India Company found the business of colonization in New Netherland to be expensive. To\nshare some of the costs, it granted Dutch merchants who invested heavily in it patroonships, or large tracts of\nland and the right to govern the tenants there. In return, the shareholder who gained the patroonship\npromised to pay for the passage of at least thirty Dutch farmers to populate the colony. One of the largest\npatroonships was granted to Kiliaen van Rensselaer, one of the directors of the Dutch West India Company; it\ncovered most of present-day Albany and Rensselaer Counties.",
+        "metadata": {
+          "book_page": 62,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.2 Colonial Rivalries: Dutch and French Colonial Ambitions",
+          "is_review_question_page": false,
+          "raw_char_count": 2520,
+          "clean_char_count": 2490,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 673
+        },
+        "score": 0.6304946083498649,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p077_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 77,
+        "text": "The small size of the population meant a\nsevere labor shortage, and to complete the arduous tasks of early settlement, the Dutch West India Company\nimported some 450 enslaved Africans between 1626 and 1664. (The company had involved itself heavily in the\nslave trade and in 1637 captured Elmina, the slave-trading post on the west coast of Africa, from the\nPortuguese.) The shortage of labor also meant that New Netherland welcomed non-Dutch immigrants,\nincluding Protestants from Germany, Sweden, Denmark, and England, and embraced a degree of religious\ntolerance, allowing Jewish immigrants to become residents beginning in the 1650s. Thus, a wide variety of\npeople lived in New Netherland from the start.",
+        "metadata": {
+          "book_page": 61,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.2 Colonial Rivalries: Dutch and French Colonial Ambitions",
+          "is_review_question_page": false,
+          "raw_char_count": 2391,
+          "clean_char_count": 2364,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 707
+        },
+        "score": 0.5399786010325756,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p078_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 78,
+        "text": "This pattern of settlement created a yawning\ngap in wealth and status between the tenants, who paid rent, and the wealthy patroons. During the summer trading season, Native Americans gathered at trading posts such as the Dutch site at\nBeverwijck (present-day Albany), where they exchanged furs for guns, blankets, and alcohol. The furs,\nespecially beaver pelts destined for the lucrative European millinery market, would be sent down the Hudson\nRiver to New Amsterdam. There, enslaved laborers or workers would load them aboard ships bound for\nAmsterdam. CLICK AND EXPL ORE\nExplore a zoomable map of New Amsterdam in 1660 (https://openstax.org/l/WNET) that shows the city plan\nand the locations of various structures, including houses, businesses, and public buildings.",
+        "metadata": {
+          "book_page": 62,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.2 Colonial Rivalries: Dutch and French Colonial Ambitions",
+          "is_review_question_page": false,
+          "raw_char_count": 2520,
+          "clean_char_count": 2490,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 769
+        },
+        "score": 0.5273197226885448,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p078_para_000 | data/US_History_-_WEB.pdf | page 78]\nFIGURE 3.6 This 1684 map of New Netherland shows the extent of Dutch settlement. The Dutch West India Company found the business of colonization in New Netherland to be expensive. To\nshare some of the costs, it granted Dutch merchants who invested heavily in it patroonships, or large tracts of\nland and the right to govern the tenants there. In return, the shareholder who gained the patroonship\npromised to pay for the passage of at least thirty Dutch farmers to populate the colony. One of the largest\npatroonships was granted to Kiliaen van Rensselaer, one of the directors of the Dutch West India Company; it\ncovered most of present-day Albany and Rensselaer Counties.\n\n[openstax-us-history_p077_para_002 | data/US_History_-_WEB.pdf | page 77]\nThe small size of the population meant a\nsevere labor shortage, and to complete the arduous tasks of early settlement, the Dutch West India Company\nimported some 450 enslaved Africans between 1626 and 1664. (The company had involved itself heavily in the\nslave trade and in 1637 captured Elmina, the slave-trading post on the west coast of Africa, from the\nPortuguese.) The shortage of labor also meant that New Netherland welcomed non-Dutch immigrants,\nincluding Protestants from Germany, Sweden, Denmark, and England, and embraced a degree of religious\ntolerance, allowing Jewish immigrants to become residents beginning in the 1650s. Thus, a wide variety of\npeople lived in New Netherland from the start.",
+    "context_ids": [
+      "openstax-us-history_p078_para_000",
+      "openstax-us-history_p077_para_002"
+    ],
+    "context_chars": 1530,
+    "elapsed_ms": 522.4361000000499,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q14",
+    "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 81,
+        "evidence": "growing\ntobacco was the only sure means of making money."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p083_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 83,
+        "text": "In\n1614, the Virginia colony began exporting tobacco back to England, which earned it a sizable profit and saved\nthe colony from ruin. A second tobacco colony, Maryland, was formed in 1634, when King Charles I granted its\ncharter to the Calvert family for their loyal service to England. Cecilius Calvert, the second Lord Baltimore,\nconceived of Maryland as a refuge for English Catholics. Growing tobacco proved very labor-intensive (Figure 3.9), and the Chesapeake colonists needed a steady\nworkforce to do the hard work of clearing the land and caring for the tender young plants. The mature leaf of\nthe plant then had to be cured (dried), which necessitated the construction of drying barns.",
+        "metadata": {
+          "book_page": 67,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 3368,
+          "clean_char_count": 3331,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 695
+        },
+        "score": 0.5947500670352414,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p081_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 81,
+        "text": "Though the early\nVirginians at Jamestown hoped to find gold, they and the settlers in Maryland quickly discovered that growing\ntobacco was the only sure means of making money. Thousands of unmarried, unemployed, and impatient\nyoung Englishmen, along with a few Englishwomen, pinned their hopes for a better life on the tobacco fields of\nthese two colonies. A very different group of English men and women flocked to the cold climate and rocky soil of New England,\nspurred by religious motives. Many of the Puritans crossing the Atlantic were people who brought families and\nchildren.",
+        "metadata": {
+          "book_page": 65,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 3063,
+          "clean_char_count": 3028,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 583
+        },
+        "score": 0.5202438586126827,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p085_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 85,
+        "text": "On the small island of Barbados, colonized in the 1620s, English planters\nfirst grew tobacco as their main export crop, but in the 1640s, they converted to sugarcane and began\nincreasingly to rely on African enslaved people. In 1655, England wrestled control of Jamaica from the Spanish\nand quickly turned it into a lucrative sugar island, run on forced labor, for its expanding empire. While slavery\nwas slower to take hold in the Chesapeake colonies, by the end of the seventeenth century, both Virginia and\nMaryland had also adopted chattel slavery—which legally defined Africans as property and not people—as the\ndominant form of labor to grow tobacco. Chesapeake colonists also enslaved Native people.",
+        "metadata": {
+          "book_page": 69,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 4543,
+          "clean_char_count": 4494,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 706
+        },
+        "score": 0.5163859320934732,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p083_para_001 | data/US_History_-_WEB.pdf | page 83]\nIn\n1614, the Virginia colony began exporting tobacco back to England, which earned it a sizable profit and saved\nthe colony from ruin. A second tobacco colony, Maryland, was formed in 1634, when King Charles I granted its\ncharter to the Calvert family for their loyal service to England. Cecilius Calvert, the second Lord Baltimore,\nconceived of Maryland as a refuge for English Catholics. Growing tobacco proved very labor-intensive (Figure 3.9), and the Chesapeake colonists needed a steady\nworkforce to do the hard work of clearing the land and caring for the tender young plants. The mature leaf of\nthe plant then had to be cured (dried), which necessitated the construction of drying barns.\n\n[openstax-us-history_p081_para_001 | data/US_History_-_WEB.pdf | page 81]\nThough the early\nVirginians at Jamestown hoped to find gold, they and the settlers in Maryland quickly discovered that growing\ntobacco was the only sure means of making money. Thousands of unmarried, unemployed, and impatient\nyoung Englishmen, along with a few Englishwomen, pinned their hopes for a better life on the tobacco fields of\nthese two colonies. A very different group of English men and women flocked to the cold climate and rocky soil of New England,\nspurred by religious motives. Many of the Puritans crossing the Atlantic were people who brought families and\nchildren.",
+    "context_ids": [
+      "openstax-us-history_p083_para_001",
+      "openstax-us-history_p081_para_001"
+    ],
+    "context_chars": 1428,
+    "elapsed_ms": 509.3609000014112,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q15",
+    "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 84,
+        "evidence": "those who paid their own passage to Virginia received fifty acres plus an\nadditional fifty for each servant or family member they brought with them."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p084_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 84,
+        "text": "the planters would then sell them to other tobacco planters to avoid the costs of raising a child. Nonetheless, those indentured servants who completed their term of service often began new lives as tobacco\nplanters. To entice even more migrants to the New World, the Virginia Company also implemented the\nheadright system, in which those who paid their own passage to Virginia received fifty acres plus an\nadditional fifty for each servant or family member they brought with them. The headright system and the\npromise of a new life for servants acted as powerful incentives for English migrants to hazard the journey to\nthe New World. CLICK AND EXPL ORE\nVisit Virtual Jamestown (https://openstax.org/l/jamestown1) to access a database of contracts of indentured\nservants.",
+        "metadata": {
+          "book_page": 68,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 2677,
+          "clean_char_count": 2646,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 772
+        },
+        "score": 0.6267318359422315,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p098_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 98,
+        "text": "Key Terms\nheadright system a system in which parcels of land were granted to settlers who could pay their own way to\nVirginia\nindenture a labor contract that promised young men, and sometimes women, money and land after they\nworked for a set period of years\nJesuits members of the Society of Jesus, an elite Catholic religious order founded in the 1540s to spread\nCatholicism and to combat the spread of Protestantism\nmaroon communities groups of escaped enslaved people who resisted recapture and eked a living from the\nland\nMiddle Passage the perilous, often deadly transatlantic crossing of ships carrying captured Africans from the\nAfrican coast to the New World\nmusket a light, long-barreled European gun\npatroonships large tracts of land and governing rights granted to merchants by the Dutch W",
+        "metadata": {
+          "book_page": 82,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "Chapter 3 Summary & Key Terms",
+          "is_review_question_page": false,
+          "raw_char_count": 3445,
+          "clean_char_count": 3397,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 800
+        },
+        "score": 0.5520171148245876,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p081_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 81,
+        "text": "FIGURE 3.8 In the early seventeenth century, thousands of English settlers came to what are now Virginia,\nMaryland, and the New England states in search of opportunity and a better life. THE DIVERGING CULTURES OF THE NEW ENGLAND AND CHESAPEAKE COLONIES\nPromoters of English colonization in North America, many of whom never ventured across the Atlantic, wrote\nabout the bounty the English would find there. These boosters of colonization hoped to turn a profit—whether\nby importing raw resources or providing new markets for English goods—and spread Protestantism. The\nEnglish migrants who actually made the journey, however, had different goals. In Chesapeake Bay, English\nmigrants established Virginia and Maryland with a decidedly commercial orientation.",
+        "metadata": {
+          "book_page": 65,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 3063,
+          "clean_char_count": 3028,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 757
+        },
+        "score": 0.4990020790158764,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p084_para_000 | data/US_History_-_WEB.pdf | page 84]\nthe planters would then sell them to other tobacco planters to avoid the costs of raising a child. Nonetheless, those indentured servants who completed their term of service often began new lives as tobacco\nplanters. To entice even more migrants to the New World, the Virginia Company also implemented the\nheadright system, in which those who paid their own passage to Virginia received fifty acres plus an\nadditional fifty for each servant or family member they brought with them. The headright system and the\npromise of a new life for servants acted as powerful incentives for English migrants to hazard the journey to\nthe New World. CLICK AND EXPL ORE\nVisit Virtual Jamestown (https://openstax.org/l/jamestown1) to access a database of contracts of indentured\nservants.",
+    "context_ids": [
+      "openstax-us-history_p084_para_000"
+    ],
+    "context_chars": 846,
+    "elapsed_ms": 510.7776000004378,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]

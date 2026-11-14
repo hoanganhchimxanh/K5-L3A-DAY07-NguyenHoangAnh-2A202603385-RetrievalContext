@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "How did the Inca communicate and keep records without a written language?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q21",
+    "split": "dev",
+    "question": "In what year was the United States Declaration of Independence signed by members of the Continental Congress in Philadelphia?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus trích xuất chỉ bao gồm Chapters 1–3 (trang 23–100, giai đoạn 1492–1700). Sự kiện ký Tuyên ngôn Độc lập diễn ra năm 1776 (Chương 5), hoàn toàn không có trong tài liệu."
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "question": "What specific territorial boundaries were established by the 1783 Treaty of Paris following the American Revolutionary War?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Hiệp ước Paris năm 1783 kết thúc Chiến tranh Cách mạng Mỹ thuộc giai đoạn cuối thế kỷ 18, nằm ngoài phạm vi 78 trang đã index."
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "Who served as the primary author of the Federalist Papers alongside Alexander Hamilton and John Jay during the ratification debates?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Loạt bài luận The Federalist Papers và việc phê chuẩn Hiến pháp Hoa Kỳ diễn ra vào năm 1787–1788 (Chương 7), không có thông tin trong corpus Chapters 1–3."
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "How much money did the United States agree to pay France in the 1803 Louisiana Purchase treaty?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Thương vụ Mua vùng Louisiana diễn ra năm 1803 dưới thời Thomas Jefferson, nằm ở các chương sau, hoàn toàn không có trong 78 trang đầu."
+  }
+]

@@ -10,7 +10,9 @@
         "evidence": "The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots and colored strings called the quipu."
       }
     ],
-    "expected_answer": "They communicated and kept records using a system of knots and colored strings called the quipu."
+    "expected_answer": "They communicated and kept records using a system of knots and colored strings called the quipu.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q02",
@@ -23,7 +25,9 @@
         "evidence": "this five-square-mile city, now\ncalled Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms\nsurrounding the urban center."
       }
     ],
-    "expected_answer": "More than ten thousand residents lived in the city, with tens of thousands more on surrounding farms."
+    "expected_answer": "More than ten thousand residents lived in the city, with tens of thousands more on surrounding farms.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q03",
@@ -36,7 +40,9 @@
         "evidence": "Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared."
       }
     ],
-    "expected_answer": "The Black Death (bubonic and pneumonic plague)."
+    "expected_answer": "The Black Death (bubonic and pneumonic plague).",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q04",
@@ -52,7 +58,9 @@
     "expected_answer": "By taxing the commercial trade that passed through their territory.",
     "filter": {
       "chapter": "Chapter 1"
-    }
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q05",
@@ -65,7 +73,9 @@
         "evidence": "seeing the near extinction of the native\npopulation, suggested the Spanish send Black (and White) laborers to the Indies."
       }
     ],
-    "expected_answer": "He suggested the Spanish import Black (and White) laborers to the Indies to spare the native population."
+    "expected_answer": "He suggested the Spanish import Black (and White) laborers to the Indies to spare the native population.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q06",
@@ -78,7 +88,9 @@
         "evidence": "Spain gained territory west of the line, while Portugal\nretained the lands east of the line, including the east coast of Brazil."
       }
     ],
-    "expected_answer": "Spain gained lands west of the meridian line, while Portugal retained lands east of the line (including the east coast of Brazil)."
+    "expected_answer": "Spain gained lands west of the meridian line, while Portugal retained lands east of the line (including the east coast of Brazil).",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q07",
@@ -91,7 +103,9 @@
         "evidence": "Hernán Cortés\nhoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual\npension for his service to the crown."
       }
     ],
-    "expected_answer": "Hereditary privileges for his family, tribute payments, forced native labor, and an annual royal pension."
+    "expected_answer": "Hereditary privileges for his family, tribute payments, forced native labor, and an annual royal pension.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q08",
@@ -107,7 +121,9 @@
     "expected_answer": "Martin Luther, a German Catholic monk.",
     "filter": {
       "chapter": "Chapter 2"
-    }
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q09",
@@ -120,7 +136,9 @@
         "evidence": "The only trace the colonists left behind\nwas the word Croatoan carved into a fence surrounding the village."
       }
     ],
-    "expected_answer": "The word 'Croatoan' carved into a wooden fence post surrounding the settlement village."
+    "expected_answer": "The word 'Croatoan' carved into a wooden fence post surrounding the settlement village.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q10",
@@ -133,7 +151,9 @@
         "evidence": "Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the\ncrown."
       }
     ],
-    "expected_answer": "Legal rights to compel and exploit native labor."
+    "expected_answer": "Legal rights to compel and exploit native labor.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q11",
@@ -146,7 +166,9 @@
         "evidence": "As Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives\nand landscapes on both sides of the ocean."
       }
     ],
-    "expected_answer": "Through the Columbian Exchange, which transferred plants, domestic animals, and infectious diseases across both continents."
+    "expected_answer": "Through the Columbian Exchange, which transferred plants, domestic animals, and infectious diseases across both continents.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q12",
@@ -159,7 +181,9 @@
         "evidence": "In 1565, the victorious Menéndez founded St. Augustine, now the oldest European settlement in the Americas."
       }
     ],
-    "expected_answer": "St. Augustine in Florida, founded by Pedro Menéndez de Avilés."
+    "expected_answer": "St. Augustine in Florida, founded by Pedro Menéndez de Avilés.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q13",
@@ -172,7 +196,9 @@
         "evidence": "it granted Dutch merchants who invested heavily in it patroonships, or large tracts of\nland and the right to govern the tenants there."
       }
     ],
-    "expected_answer": "Heavy investors were granted large tracts of land and tenant governance rights in exchange for transporting Dutch farmers to colonize the area."
+    "expected_answer": "Heavy investors were granted large tracts of land and tenant governance rights in exchange for transporting Dutch farmers to colonize the area.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q14",
@@ -185,7 +211,9 @@
         "evidence": "growing\ntobacco was the only sure means of making money."
       }
     ],
-    "expected_answer": "Tobacco cultivation."
+    "expected_answer": "Tobacco cultivation.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q15",
@@ -198,7 +226,9 @@
         "evidence": "those who paid their own passage to Virginia received fifty acres plus an\nadditional fifty for each servant or family member they brought with them."
       }
     ],
-    "expected_answer": "Settlers paying their own transportation were granted 50 acres of land, plus an extra 50 acres for each family member or servant brought."
+    "expected_answer": "Settlers paying their own transportation were granted 50 acres of land, plus an extra 50 acres for each family member or servant brought.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q16",
@@ -211,7 +241,9 @@
         "evidence": "Their story includes the signing of the Mayflower Compact, a written\nagreement whereby the English voluntarily agreed to help each other."
       }
     ],
-    "expected_answer": "The Mayflower Compact, a voluntary written covenant to bind settlers to mutual cooperation and governance."
+    "expected_answer": "The Mayflower Compact, a voluntary written covenant to bind settlers to mutual cooperation and governance.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q17",
@@ -227,7 +259,9 @@
     "expected_answer": "Roger Williams and Anne Hutchinson were banished by Governor Winthrop and the Puritan leadership.",
     "filter": {
       "chapter": "Chapter 3"
-    }
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q18",
@@ -243,7 +277,9 @@
     "expected_answer": "A determination to halt relentless English land encroachment and colonial domination over Native lands.",
     "filter": {
       "chapter": "Chapter 3"
-    }
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q19",
@@ -256,7 +292,9 @@
         "evidence": "Huron and Iroquois around the Great Lakes died of\nsmallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had\nthe highest mortality rates."
       }
     ],
-    "expected_answer": "Smallpox, which hit infants, children, and elderly tribal members with severe mortality."
+    "expected_answer": "Smallpox, which hit infants, children, and elderly tribal members with severe mortality.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
   },
   {
     "id": "q20",
@@ -272,6 +310,40 @@
     "expected_answer": "Over 400 Spaniards were killed, and approximately 2,000 surviving colonists were driven south toward Mexico.",
     "filter": {
       "chapter": "Chapter 3"
-    }
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q21",
+    "split": "dev",
+    "question": "In what year was the United States Declaration of Independence signed by members of the Continental Congress in Philadelphia?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus trích xuất chỉ bao gồm Chapters 1–3 (trang 23–100, giai đoạn 1492–1700). Sự kiện ký Tuyên ngôn Độc lập diễn ra năm 1776 (Chương 5), hoàn toàn không có trong tài liệu."
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "question": "What specific territorial boundaries were established by the 1783 Treaty of Paris following the American Revolutionary War?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Hiệp ước Paris năm 1783 kết thúc Chiến tranh Cách mạng Mỹ thuộc giai đoạn cuối thế kỷ 18, nằm ngoài phạm vi 78 trang đã index."
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "Who served as the primary author of the Federalist Papers alongside Alexander Hamilton and John Jay during the ratification debates?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Loạt bài luận The Federalist Papers và việc phê chuẩn Hiến pháp Hoa Kỳ diễn ra vào năm 1787–1788 (Chương 7), không có thông tin trong corpus Chapters 1–3."
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "How much money did the United States agree to pay France in the 1803 Louisiana Purchase treaty?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Thương vụ Mua vùng Louisiana diễn ra năm 1803 dưới thời Thomas Jefferson, nằm ở các chương sau, hoàn toàn không có trong 78 trang đầu."
   }
 ]

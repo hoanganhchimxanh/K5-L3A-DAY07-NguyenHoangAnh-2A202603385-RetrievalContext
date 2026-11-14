@@ -1,0 +1,44 @@
+[
+  {
+    "id": "q16",
+    "split": "test",
+    "answerable": true,
+    "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "answerable": true,
+    "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "answerable": true,
+    "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "answerable": true,
+    "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "answerable": true,
+    "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?"
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "answerable": false,
+    "question": "Who served as the primary author of the Federalist Papers alongside Alexander Hamilton and John Jay during the ratification debates?"
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "answerable": false,
+    "question": "How much money did the United States agree to pay France in the 1803 Louisiana Purchase treaty?"
+  }
+]

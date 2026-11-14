@@ -1,11 +1,8 @@
 [
   {
-    "query_id": "q01",
-    "split": "dev",
+    "id": "q01",
     "question": "How did the Inca communicate and keep records without a written language?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -33,7 +30,7 @@
           "char_count": 765
         },
         "score": 0.23008706894359682,
-        "strategy": "tfidf",
+        "rank": 1,
         "hit": false
       },
       {
@@ -55,7 +52,7 @@
           "char_count": 753
         },
         "score": 0.20342620797314226,
-        "strategy": "tfidf",
+        "rank": 2,
         "hit": true
       },
       {
@@ -77,25 +74,22 @@
           "char_count": 792
         },
         "score": 0.1491832635962356,
-        "strategy": "tfidf",
+        "rank": 3,
         "hit": false
       }
     ],
     "context": "",
     "context_ids": [],
     "context_chars": 0,
-    "elapsed_ms": 1.7668000000412576,
+    "elapsed_ms": 1.59200000052806,
     "hit1": false,
     "hit3": true,
     "context_hit": false
   },
   {
-    "query_id": "q02",
-    "split": "dev",
+    "id": "q02",
     "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -123,7 +117,7 @@
           "char_count": 763
         },
         "score": 0.2336116869959487,
-        "strategy": "tfidf",
+        "rank": 1,
         "hit": false
       },
       {
@@ -145,7 +139,7 @@
           "char_count": 638
         },
         "score": 0.23310239643691125,
-        "strategy": "tfidf",
+        "rank": 2,
         "hit": true
       },
       {
@@ -167,7 +161,7 @@
           "char_count": 701
         },
         "score": 0.16546756177855082,
-        "strategy": "tfidf",
+        "rank": 3,
         "hit": false
       }
     ],
@@ -176,18 +170,15 @@
       "openstax-us-history_p032_para_002"
     ],
     "context_chars": 712,
-    "elapsed_ms": 1.2838000002375338,
+    "elapsed_ms": 1.668299999437295,
     "hit1": false,
     "hit3": true,
     "context_hit": true
   },
   {
-    "query_id": "q03",
-    "split": "dev",
+    "id": "q03",
     "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -214,8 +205,8 @@
           "chunk_index": 2,
           "char_count": 690
         },
-        "score": 0.14976721340414376,
-        "strategy": "tfidf",
+        "score": 0.14904936922727488,
+        "rank": 1,
         "hit": false
       },
       {
@@ -236,8 +227,8 @@
           "chunk_index": 0,
           "char_count": 595
         },
-        "score": 0.13833136784837885,
-        "strategy": "tfidf",
+        "score": 0.13766833643695567,
+        "rank": 2,
         "hit": false
       },
       {
@@ -258,8 +249,8 @@
           "chunk_index": 1,
           "char_count": 757
         },
-        "score": 0.12385531468289716,
-        "strategy": "tfidf",
+        "score": 0.123261667953426,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -268,18 +259,17 @@
       "openstax-us-history_p033_para_002"
     ],
     "context_chars": 764,
-    "elapsed_ms": 1.107100000808714,
+    "elapsed_ms": 1.7198000005009817,
     "hit1": false,
     "hit3": false,
     "context_hit": false
   },
   {
-    "query_id": "q04",
-    "split": "dev",
+    "id": "q04",
     "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": {
+      "chapter": "Chapter 1"
+    },
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -306,31 +296,9 @@
           "chunk_index": 0,
           "char_count": 665
         },
-        "score": 0.3548187003748431,
-        "strategy": "tfidf",
+        "score": 0.35415021247557377,
+        "rank": 1,
         "hit": true
-      },
-      {
-        "id": "openstax-us-history_p100_para_001",
-        "source_id": "openstax-us-history",
-        "source": "data/US_History_-_WEB.pdf",
-        "page": 100,
-        "text": "Compare and contrast European and Native American views on property. Critical Thinking Questions\n16 . Compare and contrast life in the Spanish, French, Dutch, and English colonies, differentiating between the\nChesapeake Bay and New England colonies. Who were the colonizers? What were their purposes in being\nthere? How did they interact with their environments and the native inhabitants of the lands on which\nthey settled? 17 . Describe the attempts of the various European colonists to convert native peoples to their belief systems. How did these attempts compare to one another? What were the results of each effort? 18 . How did chattel slavery differ from indentured servitude? How did the former system come to replace the\nlatter? What were the results of this shift? 19 .",
-        "metadata": {
-          "book_page": 84,
-          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
-          "section": "Chapter 3 Review & Critical Thinking Questions",
-          "is_review_question_page": true,
-          "raw_char_count": 2041,
-          "clean_char_count": 2003,
-          "is_empty": false,
-          "chunk_type": "paragraph",
-          "chunk_index": 1,
-          "char_count": 780
-        },
-        "score": 0.147408957972626,
-        "strategy": "tfidf",
-        "hit": false
       },
       {
         "id": "openstax-us-history_p039_para_002",
@@ -350,8 +318,30 @@
           "chunk_index": 2,
           "char_count": 705
         },
-        "score": 0.13361166129782515,
-        "strategy": "tfidf",
+        "score": 0.13335993336272894,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p046_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 46,
+        "text": "a system in which people are enslaved permanently on account of their race\nCritical Thinking Questions\n12 . The Inca were able to control an empire that stretched from modern Colombia to southern Chile. Which of\ntheir various means for achieving such control do you think were most effective, and why? 13 . How did the Olmec, Aztec, Inca, Maya, and North American Natives differ in their ways of life and cultural\nachievements? How did their particular circumstances—geography, history, or the accomplishments of\nthe societies that had preceded them, for example—serve to shape their particular traditions and\ncultures? 14 . What were the lasting effects of the Crusades? In what ways did they provide opportunities—both negative\nand positive—for cross-cultural encounters and exchanges? 15 .",
+        "metadata": {
+          "book_page": 30,
+          "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+          "section": "Chapter 1 Review & Critical Thinking Questions",
+          "is_review_question_page": true,
+          "raw_char_count": 2062,
+          "clean_char_count": 2028,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 792
+        },
+        "score": 0.12131285629120195,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -360,18 +350,15 @@
       "openstax-us-history_p040_para_000"
     ],
     "context_chars": 739,
-    "elapsed_ms": 1.3760999991063727,
+    "elapsed_ms": 0.9921999990183394,
     "hit1": true,
     "hit3": true,
     "context_hit": true
   },
   {
-    "query_id": "q05",
-    "split": "dev",
+    "id": "q05",
     "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -398,8 +385,8 @@
           "chunk_index": 1,
           "char_count": 566
         },
-        "score": 0.34789286692868704,
-        "strategy": "tfidf",
+        "score": 0.34734041804652627,
+        "rank": 1,
         "hit": true
       },
       {
@@ -420,8 +407,8 @@
           "chunk_index": 1,
           "char_count": 556
         },
-        "score": 0.30975675515087325,
-        "strategy": "tfidf",
+        "score": 0.30926486586715324,
+        "rank": 2,
         "hit": false
       },
       {
@@ -442,8 +429,8 @@
           "chunk_index": 3,
           "char_count": 603
         },
-        "score": 0.27123111687148044,
-        "strategy": "tfidf",
+        "score": 0.27080040574869796,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -452,18 +439,15 @@
       "openstax-us-history_p042_para_001"
     ],
     "context_chars": 640,
-    "elapsed_ms": 2.449499999784166,
+    "elapsed_ms": 1.620099999854574,
     "hit1": true,
     "hit3": true,
     "context_hit": true
   },
   {
-    "query_id": "q06",
-    "split": "dev",
+    "id": "q06",
     "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -490,8 +474,8 @@
           "chunk_index": 1,
           "char_count": 773
         },
-        "score": 0.26682756552688003,
-        "strategy": "tfidf",
+        "score": 0.26634308136626184,
+        "rank": 1,
         "hit": true
       },
       {
@@ -512,8 +496,8 @@
           "chunk_index": 0,
           "char_count": 591
         },
-        "score": 0.15879468510277472,
-        "strategy": "tfidf",
+        "score": 0.15850635840920116,
+        "rank": 2,
         "hit": false
       },
       {
@@ -534,8 +518,8 @@
           "chunk_index": 1,
           "char_count": 780
         },
-        "score": 0.13872764718805783,
-        "strategy": "tfidf",
+        "score": 0.13847575661757,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -544,18 +528,15 @@
       "openstax-us-history_p052_para_000"
     ],
     "context_chars": 665,
-    "elapsed_ms": 2.0796999997401144,
+    "elapsed_ms": 1.0997999997925945,
     "hit1": true,
     "hit3": true,
     "context_hit": false
   },
   {
-    "query_id": "q07",
-    "split": "dev",
+    "id": "q07",
     "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -582,8 +563,8 @@
           "chunk_index": 2,
           "char_count": 758
         },
-        "score": 0.2448894296569808,
-        "strategy": "tfidf",
+        "score": 0.24314596533215874,
+        "rank": 1,
         "hit": true
       },
       {
@@ -604,8 +585,8 @@
           "chunk_index": 0,
           "char_count": 595
         },
-        "score": 0.22372078624017766,
-        "strategy": "tfidf",
+        "score": 0.22212802982730495,
+        "rank": 2,
         "hit": false
       },
       {
@@ -626,8 +607,8 @@
           "chunk_index": 3,
           "char_count": 589
         },
-        "score": 0.19786301419844082,
-        "strategy": "tfidf",
+        "score": 0.19645434945149795,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -636,18 +617,17 @@
       "openstax-us-history_p072_para_000"
     ],
     "context_chars": 669,
-    "elapsed_ms": 2.2653999985777773,
+    "elapsed_ms": 1.1517999992065597,
     "hit1": true,
     "hit3": true,
     "context_hit": false
   },
   {
-    "query_id": "q08",
-    "split": "dev",
+    "id": "q08",
     "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": {
+      "chapter": "Chapter 2"
+    },
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -675,7 +655,7 @@
           "char_count": 733
         },
         "score": 0.2375332946720678,
-        "strategy": "tfidf",
+        "rank": 1,
         "hit": false
       },
       {
@@ -697,7 +677,7 @@
           "char_count": 646
         },
         "score": 0.21493386609686507,
-        "strategy": "tfidf",
+        "rank": 2,
         "hit": false
       },
       {
@@ -719,7 +699,7 @@
           "char_count": 688
         },
         "score": 0.20142034378084897,
-        "strategy": "tfidf",
+        "rank": 3,
         "hit": false
       }
     ],
@@ -728,18 +708,15 @@
       "openstax-us-history_p055_para_001"
     ],
     "context_chars": 720,
-    "elapsed_ms": 1.5216000010696007,
+    "elapsed_ms": 0.4647999994631391,
     "hit1": false,
     "hit3": false,
     "context_hit": false
   },
   {
-    "query_id": "q09",
-    "split": "dev",
+    "id": "q09",
     "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -766,8 +743,8 @@
           "chunk_index": 3,
           "char_count": 657
         },
-        "score": 0.30589334715630917,
-        "strategy": "tfidf",
+        "score": 0.30446198136716457,
+        "rank": 1,
         "hit": true
       },
       {
@@ -788,8 +765,8 @@
           "chunk_index": 1,
           "char_count": 724
         },
-        "score": 0.165281077900865,
-        "strategy": "tfidf",
+        "score": 0.16450767866646007,
+        "rank": 2,
         "hit": false
       },
       {
@@ -810,8 +787,8 @@
           "chunk_index": 3,
           "char_count": 765
         },
-        "score": 0.15723554451335336,
-        "strategy": "tfidf",
+        "score": 0.15649979271833658,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -820,18 +797,15 @@
       "openstax-us-history_p059_para_003"
     ],
     "context_chars": 731,
-    "elapsed_ms": 1.8535999988671392,
+    "elapsed_ms": 0.9895000002870802,
     "hit1": true,
     "hit3": true,
     "context_hit": true
   },
   {
-    "query_id": "q10",
-    "split": "dev",
+    "id": "q10",
     "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -858,8 +832,8 @@
           "chunk_index": 1,
           "char_count": 733
         },
-        "score": 0.25864379439130925,
-        "strategy": "tfidf",
+        "score": 0.2579976681697458,
+        "rank": 1,
         "hit": true
       },
       {
@@ -880,8 +854,8 @@
           "chunk_index": 0,
           "char_count": 800
         },
-        "score": 0.19992640416148427,
-        "strategy": "tfidf",
+        "score": 0.19942696170466587,
+        "rank": 2,
         "hit": false
       },
       {
@@ -902,8 +876,8 @@
           "chunk_index": 3,
           "char_count": 603
         },
-        "score": 0.17721927692623005,
-        "strategy": "tfidf",
+        "score": 0.17677655986024346,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -912,18 +886,15 @@
       "openstax-us-history_p064_para_003"
     ],
     "context_chars": 677,
-    "elapsed_ms": 1.2225999998918269,
+    "elapsed_ms": 0.7813000011083204,
     "hit1": true,
     "hit3": true,
     "context_hit": false
   },
   {
-    "query_id": "q11",
-    "split": "dev",
+    "id": "q11",
     "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -950,8 +921,8 @@
           "chunk_index": 1,
           "char_count": 780
         },
-        "score": 0.2197185265347133,
-        "strategy": "tfidf",
+        "score": 0.2181288721113894,
+        "rank": 1,
         "hit": false
       },
       {
@@ -972,8 +943,8 @@
           "chunk_index": 0,
           "char_count": 610
         },
-        "score": 0.20069277696616294,
-        "strategy": "tfidf",
+        "score": 0.19924077305158627,
+        "rank": 2,
         "hit": false
       },
       {
@@ -994,8 +965,8 @@
           "chunk_index": 0,
           "char_count": 638
         },
-        "score": 0.19852842230658538,
-        "strategy": "tfidf",
+        "score": 0.19709207740817136,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -1004,18 +975,15 @@
       "openstax-us-history_p023_para_000"
     ],
     "context_chars": 684,
-    "elapsed_ms": 2.1177999988140073,
+    "elapsed_ms": 0.8149999994202517,
     "hit1": false,
     "hit3": false,
     "context_hit": false
   },
   {
-    "query_id": "q12",
-    "split": "dev",
+    "id": "q12",
     "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -1042,8 +1010,8 @@
           "chunk_index": 0,
           "char_count": 672
         },
-        "score": 0.1794604810677885,
-        "strategy": "tfidf",
+        "score": 0.17844417778030375,
+        "rank": 1,
         "hit": true
       },
       {
@@ -1064,8 +1032,8 @@
           "chunk_index": 4,
           "char_count": 463
         },
-        "score": 0.15642537290850855,
-        "strategy": "tfidf",
+        "score": 0.15553951982382358,
+        "rank": 2,
         "hit": false
       },
       {
@@ -1086,8 +1054,8 @@
           "chunk_index": 3,
           "char_count": 763
         },
-        "score": 0.1502637924776304,
-        "strategy": "tfidf",
+        "score": 0.14941283306095937,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -1096,18 +1064,15 @@
       "openstax-us-history_p075_para_000"
     ],
     "context_chars": 746,
-    "elapsed_ms": 2.1263999988150317,
+    "elapsed_ms": 0.8551999999326654,
     "hit1": true,
     "hit3": true,
     "context_hit": true
   },
   {
-    "query_id": "q13",
-    "split": "dev",
+    "id": "q13",
     "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -1134,8 +1099,8 @@
           "chunk_index": 0,
           "char_count": 673
         },
-        "score": 0.2695586967877692,
-        "strategy": "tfidf",
+        "score": 0.26791538301287443,
+        "rank": 1,
         "hit": true
       },
       {
@@ -1156,8 +1121,8 @@
           "chunk_index": 4,
           "char_count": 711
         },
-        "score": 0.22514850814750212,
-        "strategy": "tfidf",
+        "score": 0.22377593271497165,
+        "rank": 2,
         "hit": false
       },
       {
@@ -1178,8 +1143,8 @@
           "chunk_index": 1,
           "char_count": 707
         },
-        "score": 0.1512542412742274,
-        "strategy": "tfidf",
+        "score": 0.15033214830835698,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -1188,18 +1153,15 @@
       "openstax-us-history_p078_para_000"
     ],
     "context_chars": 747,
-    "elapsed_ms": 1.9119000007776776,
+    "elapsed_ms": 0.777699999161996,
     "hit1": true,
     "hit3": true,
     "context_hit": true
   },
   {
-    "query_id": "q14",
-    "split": "dev",
+    "id": "q14",
     "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -1226,8 +1188,8 @@
           "chunk_index": 1,
           "char_count": 683
         },
-        "score": 0.20524074727189265,
-        "strategy": "tfidf",
+        "score": 0.20465689598279646,
+        "rank": 1,
         "hit": false
       },
       {
@@ -1248,8 +1210,8 @@
           "chunk_index": 0,
           "char_count": 757
         },
-        "score": 0.19452647905505538,
-        "strategy": "tfidf",
+        "score": 0.19397310679798999,
+        "rank": 2,
         "hit": false
       },
       {
@@ -1270,8 +1232,8 @@
           "chunk_index": 1,
           "char_count": 695
         },
-        "score": 0.17986544047556272,
-        "strategy": "tfidf",
+        "score": 0.17935377468462507,
+        "rank": 3,
         "hit": false
       }
     ],
@@ -1280,18 +1242,15 @@
       "openstax-us-history_p082_para_001"
     ],
     "context_chars": 757,
-    "elapsed_ms": 1.7399999996996485,
+    "elapsed_ms": 0.7850999991205754,
     "hit1": false,
     "hit3": false,
     "context_hit": false
   },
   {
-    "query_id": "q15",
-    "split": "dev",
+    "id": "q15",
     "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?",
-    "strategy": "tfidf",
-    "top_k": 3,
-    "budget_chars": 800,
+    "filter": null,
     "gold": [
       {
         "source_id": "openstax-us-history",
@@ -1318,8 +1277,8 @@
           "chunk_index": 0,
           "char_count": 772
         },
-        "score": 0.18860336819235274,
-        "strategy": "tfidf",
+        "score": 0.18751132421710476,
+        "rank": 1,
         "hit": true
       },
       {
@@ -1340,8 +1299,8 @@
           "chunk_index": 1,
           "char_count": 780
         },
-        "score": 0.16189722053916425,
-        "strategy": "tfidf",
+        "score": 0.16095980947384927,
+        "rank": 2,
         "hit": false
       },
       {
@@ -1362,15 +1321,15 @@
           "chunk_index": 1,
           "char_count": 763
         },
-        "score": 0.14587635524803647,
-        "strategy": "tfidf",
+        "score": 0.14503170758131356,
+        "rank": 3,
         "hit": false
       }
     ],
     "context": "",
     "context_ids": [],
     "context_chars": 0,
-    "elapsed_ms": 1.4730999992025318,
+    "elapsed_ms": 0.7295000013982644,
     "hit1": true,
     "hit3": true,
     "context_hit": false

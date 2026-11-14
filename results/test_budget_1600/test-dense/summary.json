@@ -1,0 +1,17 @@
+{
+  "strategy": "dense",
+  "split": "test",
+  "n": 5,
+  "top_k": 3,
+  "budget": 1600,
+  "hit1": 4,
+  "hit1_rate": 0.8,
+  "hit3": 4,
+  "hit3_rate": 0.8,
+  "context_hit": 4,
+  "context_hit_rate": 0.8,
+  "avg_context_chars": 1477,
+  "median_ms": 400.18570000029285,
+  "init_seconds": 0.21575160000065807,
+  "service_cost_usd": 3e-06
+}

@@ -1,0 +1,455 @@
+[
+  {
+    "id": "q16",
+    "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 61,
+        "evidence": "Their story includes the signing of the Mayflower Compact, a written\nagreement whereby the English voluntarily agreed to help each other."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p061_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 61,
+        "text": "Fearing their children were losing\ntheir English identity among the Dutch, however, they sailed for North America in 1620 to settle at Plymouth,\nthe first English settlement in New England. The Pilgrims differed from other Puritans in their insistence on\nseparating from what they saw as the corrupt Church of England. For this reason, Pilgrims are known as\nSeparatists. Like Jamestown, Plymouth occupies an iconic place in American national memory. The tale of the 102\nmigrants who crossed the Atlantic aboard the Mayflower and their struggle for survival is a well-known\nnarrative of the founding of the country. Their story includes the signing of the Mayflower Compact, a written\nagreement whereby the English voluntarily agreed to help each other.",
+        "metadata": {
+          "book_page": 45,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.3 Challenges to Spain’s Supremacy",
+          "is_review_question_page": false,
+          "raw_char_count": 4544,
+          "clean_char_count": 4494,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 752
+        },
+        "score": 0.03177805800756621,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p061_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 61,
+        "text": "Some interpret this 1620 document as\nan expression of democratic spirit because of the cooperative and inclusive nature of the agreement to live and\nwork together. In 1630, a much larger contingent of Puritans left England to escape conformity to the Church of\nEngland and founded the Massachusetts Bay Colony. In the following years, thousands more arrived to create a\nnew life in the rocky soils and cold climates of New England. In comparison to Catholic Spain, however, Protestant England remained a very weak imperial player in the\nearly seventeenth century, with only a few infant colonies in the Americas in the early 1600s. The English\nnever found treasure equal to that of the Aztec city of Tenochtitlán, and England did not quickly grow rich from\nits small American outposts.",
+        "metadata": {
+          "book_page": 45,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.3 Challenges to Spain’s Supremacy",
+          "is_review_question_page": false,
+          "raw_char_count": 4544,
+          "clean_char_count": 4494,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 785
+        },
+        "score": 0.031746031746031744,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p087_para_005",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 87,
+        "text": "Although they found they could worship\nwithout hindrance there, they grew concerned that they were losing their Englishness as they saw their\nchildren begin to learn the Dutch language and adopt Dutch ways. In addition, the English Pilgrims (and others\nin Europe) feared another attack on the Dutch Republic by Spain. Therefore, in 1620, they moved on to found\nthe Plymouth Colony in present-day Massachusetts. The governor of Plymouth, William Bradford, was a\nSeparatist, a proponent of complete separation from the English state church. Bradford and the other Pilgrim\n3.3 • English Settlements in America 71",
+        "metadata": {
+          "book_page": 71,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 4389,
+          "clean_char_count": 4342,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 5,
+          "char_count": 609
+        },
+        "score": 0.030776515151515152,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p061_para_002 | data/US_History_-_WEB.pdf | page 61]\nFearing their children were losing\ntheir English identity among the Dutch, however, they sailed for North America in 1620 to settle at Plymouth,\nthe first English settlement in New England. The Pilgrims differed from other Puritans in their insistence on\nseparating from what they saw as the corrupt Church of England. For this reason, Pilgrims are known as\nSeparatists. Like Jamestown, Plymouth occupies an iconic place in American national memory. The tale of the 102\nmigrants who crossed the Atlantic aboard the Mayflower and their struggle for survival is a well-known\nnarrative of the founding of the country. Their story includes the signing of the Mayflower Compact, a written\nagreement whereby the English voluntarily agreed to help each other.\n\n[openstax-us-history_p087_para_005 | data/US_History_-_WEB.pdf | page 87]\nAlthough they found they could worship\nwithout hindrance there, they grew concerned that they were losing their Englishness as they saw their\nchildren begin to learn the Dutch language and adopt Dutch ways. In addition, the English Pilgrims (and others\nin Europe) feared another attack on the Dutch Republic by Spain. Therefore, in 1620, they moved on to found\nthe Plymouth Colony in present-day Massachusetts. The governor of Plymouth, William Bradford, was a\nSeparatist, a proponent of complete separation from the English state church. Bradford and the other Pilgrim\n3.3 • English Settlements in America 71",
+    "context_ids": [
+      "openstax-us-history_p061_para_002",
+      "openstax-us-history_p087_para_005"
+    ],
+    "context_chars": 1511,
+    "elapsed_ms": 491.7069999992236,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q17",
+    "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?",
+    "filter": {
+      "chapter": "Chapter 3"
+    },
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 90,
+        "evidence": "Puritan minister Roger Williams and\nAnne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p090_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 90,
+        "text": "When dissenters, including Puritan minister Roger Williams and\nAnne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished. Roger Williams questioned the Puritans’ taking of Native land. Williams also argued for a complete separation\nfrom the Church of England, a position other Puritans in Massachusetts rejected, as well as the idea that the\nstate could not punish individuals for their beliefs. Although he did accept that nonbelievers were destined for\neternal damnation, Williams did not think the state could compel true orthodoxy. Puritan authorities found\nhim guilty of spreading dangerous ideas, but he went on to found Rhode Island as a colony that sheltered\ndissenting Puritans from their brethren in Massachusetts.",
+        "metadata": {
+          "book_page": 74,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 4553,
+          "clean_char_count": 4504,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 766
+        },
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p090_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 90,
+        "text": "In Rhode Island, Williams wrote favorably about\nnative peoples, contrasting their virtues with Puritan New England’s intolerance. Anne Hutchinson also ran afoul of Puritan authorities for her criticism of the evolving religious practices in the\nMassachusetts Bay Colony. In particular, she held that Puritan ministers in New England taught a shallow\nversion of Protestantism emphasizing hierarchy and actions—a “covenant of works” rather than a “covenant of\ngrace.” Literate Puritan women like Hutchinson presented a challenge to the male ministers’ authority. Indeed,\nher major offense was her claim of direct religious revelation, a type of spiritual experience that negated the\nrole of ministers.",
+        "metadata": {
+          "book_page": 74,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 4553,
+          "clean_char_count": 4504,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 699
+        },
+        "score": 0.030536130536130537,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p087_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 87,
+        "text": "These reformers, who followed the teachings of John Calvin and other Protestant\nreformers, were called Puritans because of their insistence on “purifying” the Church of England of what they\nbelieved to be un-scriptural, especially Catholic elements that lingered in its institutions and practices. Many who provided leadership in early New England were learned ministers who had studied at Cambridge or\nOxford but who, because they had questioned the practices of the Church of England, had been deprived of\ncareers by the king and his officials in an effort to silence all dissenting voices. Other Puritan leaders, such as\nthe first governor of the Massachusetts Bay Colony, John Winthrop, came from the privileged class of English\ngentry.",
+        "metadata": {
+          "book_page": 71,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 4389,
+          "clean_char_count": 4342,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 740
+        },
+        "score": 0.0304147465437788,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p090_para_001 | data/US_History_-_WEB.pdf | page 90]\nWhen dissenters, including Puritan minister Roger Williams and\nAnne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished. Roger Williams questioned the Puritans’ taking of Native land. Williams also argued for a complete separation\nfrom the Church of England, a position other Puritans in Massachusetts rejected, as well as the idea that the\nstate could not punish individuals for their beliefs. Although he did accept that nonbelievers were destined for\neternal damnation, Williams did not think the state could compel true orthodoxy. Puritan authorities found\nhim guilty of spreading dangerous ideas, but he went on to found Rhode Island as a colony that sheltered\ndissenting Puritans from their brethren in Massachusetts.",
+    "context_ids": [
+      "openstax-us-history_p090_para_001"
+    ],
+    "context_chars": 840,
+    "elapsed_ms": 354.30129999986093,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q18",
+    "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?",
+    "filter": {
+      "chapter": "Chapter 3"
+    },
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 91,
+        "evidence": "Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to\nstop the encroachment."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p091_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 91,
+        "text": "By the mid-seventeenth century, the Puritans had pushed their way further into the interior of New England,\nestablishing outposts along the Connecticut River Valley. There seemed no end to their expansion. Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to\nstop the encroachment. The Wampanoag, along with the Nipmuck, Pocumtuck, and Narragansett, took up\narms to drive the English from the land. In the ensuing conflict, called King Philip’s War, Native forces\nsucceeded in destroying half of the frontier Puritan towns; however, in the end, the English (aided by\nMohegans and Christian Native Americans) prevailed and sold many captives into slavery in the West Indies.",
+        "metadata": {
+          "book_page": 75,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 3057,
+          "clean_char_count": 3021,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 722
+        },
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p091_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 91,
+        "text": "reading scripture, he translated the Bible into the local Algonquian language and published his work in 1663. Eliot hoped that as a result of his efforts, some of New England’s native inhabitants would become preachers. Tensions had existed from the beginning between the Puritans and the native people who controlled southern\nNew England (Figure 3.13). Relationships deteriorated as the Puritans continued to expand their settlements\naggressively and as European ways increasingly disrupted native life. These strains led to King Philip’s War\n(1675–1676), a massive regional conflict that was nearly successful in pushing the English out of New England. FIGURE 3.13 This map indicates the domains of New England’s native inhabitants in 1670, a few years before King\nPhilip’s War.",
+        "metadata": {
+          "book_page": 75,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 3057,
+          "clean_char_count": 3021,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 780
+        },
+        "score": 0.03225806451612903,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p091_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 91,
+        "text": "(The severed head of King Philip was publicly displayed in Plymouth.) The war also forever changed the\nEnglish perception of Native peoples; from then on, Puritan writers took great pains to vilify the Native people\nas bloodthirsty savages. A new type of racial hatred became a defining feature of Native-English relationships\nin the Northeast. Mary Rowlandson’s Captivity Narrative\nMary Rowlandson was a Puritan woman whom Native tribes captured and imprisoned for several weeks during\nKing Philip’s War. After her release, she wrote The Narrative of the Captivity and the Restoration of Mrs. Mary\nRowlandson, which was published in 1682 (Figure 3.14). The book was an immediate sensation that was\nreissued in multiple editions for over a century. MY STORY\n3.3 • English Settlements in America 75",
+        "metadata": {
+          "book_page": 75,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.3 English Settlements in America",
+          "is_review_question_page": false,
+          "raw_char_count": 3057,
+          "clean_char_count": 3021,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 797
+        },
+        "score": 0.030776515151515152,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p091_para_002 | data/US_History_-_WEB.pdf | page 91]\nBy the mid-seventeenth century, the Puritans had pushed their way further into the interior of New England,\nestablishing outposts along the Connecticut River Valley. There seemed no end to their expansion. Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to\nstop the encroachment. The Wampanoag, along with the Nipmuck, Pocumtuck, and Narragansett, took up\narms to drive the English from the land. In the ensuing conflict, called King Philip’s War, Native forces\nsucceeded in destroying half of the frontier Puritan towns; however, in the end, the English (aided by\nMohegans and Christian Native Americans) prevailed and sold many captives into slavery in the West Indies.",
+    "context_ids": [
+      "openstax-us-history_p091_para_002"
+    ],
+    "context_chars": 796,
+    "elapsed_ms": 437.82780000037747,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q19",
+    "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?",
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 95,
+        "evidence": "Huron and Iroquois around the Great Lakes died of\nsmallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had\nthe highest mortality rates."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p095_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 95,
+        "text": "Native\npeoples who moved seasonally to take advantage of natural resources now found areas off limits, claimed by\ncolonizers because of their insistence on private-property rights. The Introduction of Disease\nPerhaps European colonization’s single greatest impact on the North American environment was the\nintroduction of disease. Microbes to which native inhabitants had no immunity led to death everywhere\nEuropeans settled. Along the New England coast between 1616 and 1618, epidemics claimed the lives of 75\npercent of the native people. In the 1630s, half the Huron and Iroquois around the Great Lakes died of\nsmallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had\nthe highest mortality rates.",
+        "metadata": {
+          "book_page": 79,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.4 The Impact of Colonization",
+          "is_review_question_page": false,
+          "raw_char_count": 3206,
+          "clean_char_count": 3168,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 753
+        },
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p079_para_000",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 79,
+        "text": "for their ongoing war with the Iroquois. Thus, the French found themselves escalating native wars and\nsupporting the Algonquian against the Iroquois, who received weapons from their Dutch trading partners. These seventeenth-century conflicts centered on the lucrative trade in beaver pelts, earning them the name of\nthe Beaver Wars. In these wars, fighting between rival native peoples spread throughout the Great Lakes\nregion. A handful of French Jesuit priests also made their way to Canada, intent on converting the native inhabitants to\nCatholicism. The Jesuits were members of the Society of Jesus, an elite religious order founded in the 1540s to\nspread Catholicism and combat the spread of Protestantism.",
+        "metadata": {
+          "book_page": 63,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.2 Colonial Rivalries: Dutch and French Colonial Ambitions",
+          "is_review_question_page": false,
+          "raw_char_count": 2341,
+          "clean_char_count": 2312,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 0,
+          "char_count": 711
+        },
+        "score": 0.03149801587301587,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p062_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 62,
+        "text": "FIGURE 2.12 In this engraving, titled Defeat of the Iroquois and based on a drawing by explorer Samuel de\nChamplain, Champlain is shown fighting on the side of the Huron and Algonquins against the Iroquois. He portrays\nhimself in the middle of the battle, firing a gun, while the native people around him shoot arrows at each other. What\ndoes this engraving suggest about the impact of European exploration and settlement on the Americas? The French were primarily interested in establishing commercially viable colonial outposts, and to that end,\nthey created extensive trading networks in New France. These networks relied on native hunters to harvest\nfurs, especially beaver pelts, and to exchange these items for French glass beads and other trade goods.",
+        "metadata": {
+          "book_page": 46,
+          "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+          "section": "2.3 Challenges to Spain’s Supremacy",
+          "is_review_question_page": false,
+          "raw_char_count": 3213,
+          "clean_char_count": 3178,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 758
+        },
+        "score": 0.031009615384615385,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p095_para_002 | data/US_History_-_WEB.pdf | page 95]\nNative\npeoples who moved seasonally to take advantage of natural resources now found areas off limits, claimed by\ncolonizers because of their insistence on private-property rights. The Introduction of Disease\nPerhaps European colonization’s single greatest impact on the North American environment was the\nintroduction of disease. Microbes to which native inhabitants had no immunity led to death everywhere\nEuropeans settled. Along the New England coast between 1616 and 1618, epidemics claimed the lives of 75\npercent of the native people. In the 1630s, half the Huron and Iroquois around the Great Lakes died of\nsmallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had\nthe highest mortality rates.",
+    "context_ids": [
+      "openstax-us-history_p095_para_002"
+    ],
+    "context_chars": 827,
+    "elapsed_ms": 470.26980000009644,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "id": "q20",
+    "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?",
+    "filter": {
+      "chapter": "Chapter 3"
+    },
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 76,
+        "evidence": "The Pueblo Revolt killed over four\nhundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax-us-history_p076_para_002",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 76,
+        "text": "This\ndeep insult, combined with an extended period of drought and increased attacks by local Apache and Navajo\nin the 1670s—troubles that the Pueblo came to believe were linked to the Spanish presence—moved the Pueblo\nto push the Spanish and their religion from the area. Pueblo leader Popé demanded a return to native ways so\nthe hardships his people faced would end. To him and to thousands of others, it seemed obvious that “when\nJesus came, the Corn Mothers went away.” The expulsion of the Spanish would bring a return to prosperity and\na pure, native way of life. In 1680, the Pueblo launched a coordinated rebellion against the Spanish. The Pueblo Revolt killed over four\nhundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico.",
+        "metadata": {
+          "book_page": 60,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.1 Spanish Exploration and Colonial Society",
+          "is_review_question_page": false,
+          "raw_char_count": 4252,
+          "clean_char_count": 4204,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 2,
+          "char_count": 786
+        },
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "openstax-us-history_p076_para_003",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 76,
+        "text": "However, as droughts and attacks by rival tribes continued, the Spanish sensed an opportunity to regain their\nfoothold. In 1692, they returned and reasserted their control of the area. Some of the Spanish explained the\nPueblo success in 1680 as the work of the Devil. Satan, they believed, had stirred up the Pueblo to take arms\nagainst God’s chosen people—the Spanish—but the Spanish, and their God, had prevailed in the end.",
+        "metadata": {
+          "book_page": 60,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.1 Spanish Exploration and Colonial Society",
+          "is_review_question_page": false,
+          "raw_char_count": 4252,
+          "clean_char_count": 4204,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 3,
+          "char_count": 426
+        },
+        "score": 0.03225806451612903,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "openstax-us-history_p076_para_001",
+        "source_id": "openstax-us-history",
+        "source": "data/US_History_-_WEB.pdf",
+        "page": 76,
+        "text": "Santa Fe became the capital of the Kingdom of New Mexico,\nan outpost of the larger Spanish Viceroyalty of New Spain, which had its headquarters in Mexico City. As they had in other Spanish colonies, Franciscan missionaries labored to bring about a spiritual conquest by\nconverting the Pueblo to Catholicism. At first, the Pueblo adopted the parts of Catholicism that dovetailed with\ntheir own long-standing view of the world. However, Spanish priests insisted that natives discard their old\nways entirely and angered the Pueblo by focusing on the young, drawing them away from their parents.",
+        "metadata": {
+          "book_page": 60,
+          "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+          "section": "3.1 Spanish Exploration and Colonial Society",
+          "is_review_question_page": false,
+          "raw_char_count": 4252,
+          "clean_char_count": 4204,
+          "is_empty": false,
+          "chunk_type": "paragraph",
+          "chunk_index": 1,
+          "char_count": 591
+        },
+        "score": 0.031746031746031744,
+        "rank": 3,
+        "hit": false
+      }
+    ],
+    "context": "[openstax-us-history_p076_para_002 | data/US_History_-_WEB.pdf | page 76]\nThis\ndeep insult, combined with an extended period of drought and increased attacks by local Apache and Navajo\nin the 1670s—troubles that the Pueblo came to believe were linked to the Spanish presence—moved the Pueblo\nto push the Spanish and their religion from the area. Pueblo leader Popé demanded a return to native ways so\nthe hardships his people faced would end. To him and to thousands of others, it seemed obvious that “when\nJesus came, the Corn Mothers went away.” The expulsion of the Spanish would bring a return to prosperity and\na pure, native way of life. In 1680, the Pueblo launched a coordinated rebellion against the Spanish. The Pueblo Revolt killed over four\nhundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico.\n\n[openstax-us-history_p076_para_003 | data/US_History_-_WEB.pdf | page 76]\nHowever, as droughts and attacks by rival tribes continued, the Spanish sensed an opportunity to regain their\nfoothold. In 1692, they returned and reasserted their control of the area. Some of the Spanish explained the\nPueblo success in 1680 as the work of the Devil. Satan, they believed, had stirred up the Pueblo to take arms\nagainst God’s chosen people—the Spanish—but the Spanish, and their God, had prevailed in the end.",
+    "context_ids": [
+      "openstax-us-history_p076_para_002",
+      "openstax-us-history_p076_para_003"
+    ],
+    "context_chars": 1362,
+    "elapsed_ms": 462.77009999903385,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]
