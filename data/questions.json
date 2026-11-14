@@ -1,0 +1,277 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "How did the Inca communicate and keep records without a written language?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 30,
+        "evidence": "The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots and colored strings called the quipu."
+      }
+    ],
+    "expected_answer": "They communicated and kept records using a system of knots and colored strings called the quipu."
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 32,
+        "evidence": "this five-square-mile city, now\ncalled Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms\nsurrounding the urban center."
+      }
+    ],
+    "expected_answer": "More than ten thousand residents lived in the city, with tens of thousands more on surrounding farms."
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 34,
+        "evidence": "Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared."
+      }
+    ],
+    "expected_answer": "The Black Death (bubonic and pneumonic plague)."
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 40,
+        "evidence": "By 750, the Soninke farmers\nof the sub-Sahara had become wealthy by taxing the trade that passed through their area."
+      }
+    ],
+    "expected_answer": "By taxing the commercial trade that passed through their territory.",
+    "filter": {
+      "chapter": "Chapter 1"
+    }
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 42,
+        "evidence": "seeing the near extinction of the native\npopulation, suggested the Spanish send Black (and White) laborers to the Indies."
+      }
+    ],
+    "expected_answer": "He suggested the Spanish import Black (and White) laborers to the Indies to spare the native population."
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 52,
+        "evidence": "Spain gained territory west of the line, while Portugal\nretained the lands east of the line, including the east coast of Brazil."
+      }
+    ],
+    "expected_answer": "Spain gained lands west of the meridian line, while Portugal retained lands east of the line (including the east coast of Brazil)."
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 52,
+        "evidence": "Hernán Cortés\nhoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual\npension for his service to the crown."
+      }
+    ],
+    "expected_answer": "Hereditary privileges for his family, tribute payments, forced native labor, and an annual royal pension."
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 56,
+        "evidence": "Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of\nthe German painter Lucas Cranach the Elder."
+      }
+    ],
+    "expected_answer": "Martin Luther, a German Catholic monk.",
+    "filter": {
+      "chapter": "Chapter 2"
+    }
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 59,
+        "evidence": "The only trace the colonists left behind\nwas the word Croatoan carved into a fence surrounding the village."
+      }
+    ],
+    "expected_answer": "The word 'Croatoan' carved into a wooden fence post surrounding the settlement village."
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 64,
+        "evidence": "Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the\ncrown."
+      }
+    ],
+    "expected_answer": "Legal rights to compel and exploit native labor."
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 66,
+        "evidence": "As Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives\nand landscapes on both sides of the ocean."
+      }
+    ],
+    "expected_answer": "Through the Columbian Exchange, which transferred plants, domestic animals, and infectious diseases across both continents."
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 75,
+        "evidence": "In 1565, the victorious Menéndez founded St. Augustine, now the oldest European settlement in the Americas."
+      }
+    ],
+    "expected_answer": "St. Augustine in Florida, founded by Pedro Menéndez de Avilés."
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 78,
+        "evidence": "it granted Dutch merchants who invested heavily in it patroonships, or large tracts of\nland and the right to govern the tenants there."
+      }
+    ],
+    "expected_answer": "Heavy investors were granted large tracts of land and tenant governance rights in exchange for transporting Dutch farmers to colonize the area."
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 81,
+        "evidence": "growing\ntobacco was the only sure means of making money."
+      }
+    ],
+    "expected_answer": "Tobacco cultivation."
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 84,
+        "evidence": "those who paid their own passage to Virginia received fifty acres plus an\nadditional fifty for each servant or family member they brought with them."
+      }
+    ],
+    "expected_answer": "Settlers paying their own transportation were granted 50 acres of land, plus an extra 50 acres for each family member or servant brought."
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 61,
+        "evidence": "Their story includes the signing of the Mayflower Compact, a written\nagreement whereby the English voluntarily agreed to help each other."
+      }
+    ],
+    "expected_answer": "The Mayflower Compact, a voluntary written covenant to bind settlers to mutual cooperation and governance."
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 90,
+        "evidence": "Puritan minister Roger Williams and\nAnne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished."
+      }
+    ],
+    "expected_answer": "Roger Williams and Anne Hutchinson were banished by Governor Winthrop and the Puritan leadership.",
+    "filter": {
+      "chapter": "Chapter 3"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 91,
+        "evidence": "Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to\nstop the encroachment."
+      }
+    ],
+    "expected_answer": "A determination to halt relentless English land encroachment and colonial domination over Native lands.",
+    "filter": {
+      "chapter": "Chapter 3"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 95,
+        "evidence": "Huron and Iroquois around the Great Lakes died of\nsmallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had\nthe highest mortality rates."
+      }
+    ],
+    "expected_answer": "Smallpox, which hit infants, children, and elderly tribal members with severe mortality."
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?",
+    "gold": [
+      {
+        "source_id": "openstax-us-history",
+        "page": 76,
+        "evidence": "The Pueblo Revolt killed over four\nhundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico."
+      }
+    ],
+    "expected_answer": "Over 400 Spaniards were killed, and approximately 2,000 surviving colonists were driven south toward Mexico.",
+    "filter": {
+      "chapter": "Chapter 3"
+    }
+  }
+]
